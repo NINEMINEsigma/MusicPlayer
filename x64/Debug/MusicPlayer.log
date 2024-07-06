@@ -1,0 +1,871 @@
+﻿  GuiMusicPlayer.cpp
+F:\source\2024\MusicPlayer\MusicPlayer\GuiMusicPlayer.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“GuiMusicPlayer.cpp”)
+  
+F:\source\2024\MusicPlayer\MusicPlayer\MusicData.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“GuiMusicPlayer.cpp”)
+  
+F:\source\2024\MusicPlayer\MusicPlayer\MusicMCI.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“GuiMusicPlayer.cpp”)
+  
+F:\source\2024\LightDiagram\LightDiagram\Core\Header\LF_Config.h(1523,75): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“GuiMusicPlayer.cpp”)
+  
+F:\source\2024\LightDiagram\LightDiagram\Core\Header\LF_Config.h(1526,58): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“GuiMusicPlayer.cpp”)
+  
+F:\source\2024\LightDiagram\LightDiagram\Core\Header\anyclass.h(239,2): error C2535: “copy_disable::copy_disable(const copy_disable &)”: 已经定义或声明成员函数
+  (编译源文件“GuiMusicPlayer.cpp”)
+  F:\source\2024\LightDiagram\LightDiagram\Core\Header\anyclass.h(236,2):
+  参见“copy_disable::copy_disable”的声明
+  
+  main.cpp
+F:\source\2024\MusicPlayer\MusicPlayer\GuiMusicPlayer.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“main.cpp”)
+  
+F:\source\2024\MusicPlayer\MusicPlayer\MusicData.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“main.cpp”)
+  
+F:\source\2024\MusicPlayer\MusicPlayer\MusicMCI.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“main.cpp”)
+  
+F:\source\2024\LightDiagram\LightDiagram\Core\Header\LF_Config.h(1523,75): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+F:\source\2024\LightDiagram\LightDiagram\Core\Header\LF_Config.h(1526,58): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+F:\source\2024\LightDiagram\LightDiagram\Core\Header\anyclass.h(239,2): error C2535: “copy_disable::copy_disable(const copy_disable &)”: 已经定义或声明成员函数
+  (编译源文件“main.cpp”)
+  F:\source\2024\LightDiagram\LightDiagram\Core\Header\anyclass.h(236,2):
+  参见“copy_disable::copy_disable”的声明
+  
+  MusicData.cpp
+F:\source\2024\MusicPlayer\MusicPlayer\MusicData.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“MusicData.cpp”)
+  
+F:\source\2024\MusicPlayer\MusicPlayer\MusicMCI.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“MusicData.cpp”)
+  
+F:\source\2024\LightDiagram\LightDiagram\Core\Header\LF_Config.h(1523,75): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“MusicData.cpp”)
+  
+F:\source\2024\LightDiagram\LightDiagram\Core\Header\LF_Config.h(1526,58): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“MusicData.cpp”)
+  
+F:\source\2024\LightDiagram\LightDiagram\Core\Header\anyclass.h(239,2): error C2535: “copy_disable::copy_disable(const copy_disable &)”: 已经定义或声明成员函数
+  (编译源文件“MusicData.cpp”)
+  F:\source\2024\LightDiagram\LightDiagram\Core\Header\anyclass.h(236,2):
+  参见“copy_disable::copy_disable”的声明
+  
+  MusicMCI.cpp
+F:\source\2024\MusicPlayer\MusicPlayer\MusicMCI.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\source\2024\MusicPlayer\MusicPlayer\MusicMCI.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“MusicMCI.cpp”)
+  
+F:\source\2024\LightDiagram\LightDiagram\Core\Header\LF_Config.h(1523,75): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“MusicMCI.cpp”)
+  
+F:\source\2024\LightDiagram\LightDiagram\Core\Header\LF_Config.h(1526,58): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“MusicMCI.cpp”)
+  
+F:\source\2024\LightDiagram\LightDiagram\Core\Header\anyclass.h(239,2): error C2535: “copy_disable::copy_disable(const copy_disable &)”: 已经定义或声明成员函数
+  (编译源文件“MusicMCI.cpp”)
+  F:\source\2024\LightDiagram\LightDiagram\Core\Header\anyclass.h(236,2):
+  参见“copy_disable::copy_disable”的声明
+  
+  musicPlayer.cpp
+F:\source\2024\LightDiagram\LightDiagram\Core\Header\LF_Config.h(1523,75): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“musicPlayer.cpp”)
+  
+F:\source\2024\LightDiagram\LightDiagram\Core\Header\LF_Config.h(1526,58): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“musicPlayer.cpp”)
+  
+F:\source\2024\LightDiagram\LightDiagram\Core\Header\anyclass.h(239,2): error C2535: “copy_disable::copy_disable(const copy_disable &)”: 已经定义或声明成员函数
+  (编译源文件“musicPlayer.cpp”)
+  F:\source\2024\LightDiagram\LightDiagram\Core\Header\anyclass.h(236,2):
+  参见“copy_disable::copy_disable”的声明
+  
+F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(155,16): error C2371: “ld::clog”: 重定义；不同的基类型
+  F:\source\2024\LightDiagram\LightDiagram\Core\Header\LF_Exception.h(47,27):
+  参见“ld::clog”的声明
+  
+F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(188,12): error C2678: 二进制“<<”: 没有找到接受“std::basic_ostream<wchar_t,std::char_traits<wchar_t>>”类型的左操作数的运算符(或没有可接受的转换)
+  E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(480,39):
+  可能是“std::basic_ostream<wchar_t,std::char_traits<wchar_t>> &std::basic_ostream<wchar_t,std::char_traits<wchar_t>>::operator <<(std::basic_streambuf<wchar_t,std::char_traits<wchar_t>> *)”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(188,12):
+  	“std::basic_ostream<wchar_t,std::char_traits<wchar_t>> &std::basic_ostream<wchar_t,std::char_traits<wchar_t>>::operator <<(std::basic_streambuf<wchar_t,std::char_traits<wchar_t>> *)”: 无法将参数 2 从“ld::string”转换为“std::basic_streambuf<wchar_t,std::char_traits<wchar_t>> *”
+  		F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(188,28):
+  		没有可用于执行该转换的用户定义的转换运算符，或者无法调用该运算符
+  E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(448,39):
+  或    “std::basic_ostream<wchar_t,std::char_traits<wchar_t>> &std::basic_ostream<wchar_t,std::char_traits<wchar_t>>::operator <<(const void *)”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(188,12):
+  	“std::basic_ostream<wchar_t,std::char_traits<wchar_t>> &std::basic_ostream<wchar_t,std::char_traits<wchar_t>>::operator <<(const void *)”: 无法将参数 2 从“ld::string”转换为“const void *”
+  		F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(188,28):
+  		没有可用于执行该转换的用户定义的转换运算符，或者无法调用该运算符
+  E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(430,39):
+  或    “std::basic_ostream<wchar_t,std::char_traits<wchar_t>> &std::basic_ostream<wchar_t,std::char_traits<wchar_t>>::operator <<(long double)”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(188,12):
+  	“std::basic_ostream<wchar_t,std::char_traits<wchar_t>> &std::basic_ostream<wchar_t,std::char_traits<wchar_t>>::operator <<(long double)”: 无法将参数 2 从“ld::string”转换为“long double”
+  		F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(188,28):
+  		没有可用于执行该转换的用户定义的转换运算符，或者无法调用该运算符
+  E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(412,39):
+  或    “std::basic_ostream<wchar_t,std::char_traits<wchar_t>> &std::basic_ostream<wchar_t,std::char_traits<wchar_t>>::operator <<(double)”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(188,12):
+  	“std::basic_ostream<wchar_t,std::char_traits<wchar_t>> &std::basic_ostream<wchar_t,std::char_traits<wchar_t>>::operator <<(double)”: 无法将参数 2 从“ld::string”转换为“double”
+  		F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(188,28):
+  		没有可用于执行该转换的用户定义的转换运算符，或者无法调用该运算符
+  E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(394,39):
+  或    “std::basic_ostream<wchar_t,std::char_traits<wchar_t>> &std::basic_ostream<wchar_t,std::char_traits<wchar_t>>::operator <<(float)”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(188,12):
+  	“std::basic_ostream<wchar_t,std::char_traits<wchar_t>> &std::basic_ostream<wchar_t,std::char_traits<wchar_t>>::operator <<(float)”: 无法将参数 2 从“ld::string”转换为“float”
+  		F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(188,28):
+  		没有可用于执行该转换的用户定义的转换运算符，或者无法调用该运算符
+  E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(376,39):
+  或    “std::basic_ostream<wchar_t,std::char_traits<wchar_t>> &std::basic_ostream<wchar_t,std::char_traits<wchar_t>>::operator <<(unsigned __int64)”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(188,12):
+  	“std::basic_ostream<wchar_t,std::char_traits<wchar_t>> &std::basic_ostream<wchar_t,std::char_traits<wchar_t>>::operator <<(unsigned __int64)”: 无法将参数 2 从“ld::string”转换为“unsigned __int64”
+  		F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(188,28):
+  		没有可用于执行该转换的用户定义的转换运算符，或者无法调用该运算符
+  E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(358,39):
+  或    “std::basic_ostream<wchar_t,std::char_traits<wchar_t>> &std::basic_ostream<wchar_t,std::char_traits<wchar_t>>::operator <<(__int64)”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(188,12):
+  	“std::basic_ostream<wchar_t,std::char_traits<wchar_t>> &std::basic_ostream<wchar_t,std::char_traits<wchar_t>>::operator <<(__int64)”: 无法将参数 2 从“ld::string”转换为“__int64”
+  		F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(188,28):
+  		没有可用于执行该转换的用户定义的转换运算符，或者无法调用该运算符
+  E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(340,39):
+  或    “std::basic_ostream<wchar_t,std::char_traits<wchar_t>> &std::basic_ostream<wchar_t,std::char_traits<wchar_t>>::operator <<(unsigned long)”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(188,12):
+  	“std::basic_ostream<wchar_t,std::char_traits<wchar_t>> &std::basic_ostream<wchar_t,std::char_traits<wchar_t>>::operator <<(unsigned long)”: 无法将参数 2 从“ld::string”转换为“unsigned long”
+  		F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(188,28):
+  		没有可用于执行该转换的用户定义的转换运算符，或者无法调用该运算符
+  E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(322,39):
+  或    “std::basic_ostream<wchar_t,std::char_traits<wchar_t>> &std::basic_ostream<wchar_t,std::char_traits<wchar_t>>::operator <<(long)”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(188,12):
+  	“std::basic_ostream<wchar_t,std::char_traits<wchar_t>> &std::basic_ostream<wchar_t,std::char_traits<wchar_t>>::operator <<(long)”: 无法将参数 2 从“ld::string”转换为“long”
+  		F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(188,28):
+  		没有可用于执行该转换的用户定义的转换运算符，或者无法调用该运算符
+  E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(303,39):
+  或    “std::basic_ostream<wchar_t,std::char_traits<wchar_t>> &std::basic_ostream<wchar_t,std::char_traits<wchar_t>>::operator <<(unsigned int)”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(188,12):
+  	“std::basic_ostream<wchar_t,std::char_traits<wchar_t>> &std::basic_ostream<wchar_t,std::char_traits<wchar_t>>::operator <<(unsigned int)”: 无法将参数 2 从“ld::string”转换为“unsigned int”
+  		F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(188,28):
+  		没有可用于执行该转换的用户定义的转换运算符，或者无法调用该运算符
+  E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(277,39):
+  或    “std::basic_ostream<wchar_t,std::char_traits<wchar_t>> &std::basic_ostream<wchar_t,std::char_traits<wchar_t>>::operator <<(int)”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(188,12):
+  	“std::basic_ostream<wchar_t,std::char_traits<wchar_t>> &std::basic_ostream<wchar_t,std::char_traits<wchar_t>>::operator <<(int)”: 无法将参数 2 从“ld::string”转换为“int”
+  		F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(188,28):
+  		没有可用于执行该转换的用户定义的转换运算符，或者无法调用该运算符
+  E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(258,39):
+  或    “std::basic_ostream<wchar_t,std::char_traits<wchar_t>> &std::basic_ostream<wchar_t,std::char_traits<wchar_t>>::operator <<(unsigned short)”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(188,12):
+  	“std::basic_ostream<wchar_t,std::char_traits<wchar_t>> &std::basic_ostream<wchar_t,std::char_traits<wchar_t>>::operator <<(unsigned short)”: 无法将参数 2 从“ld::string”转换为“unsigned short”
+  		F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(188,28):
+  		没有可用于执行该转换的用户定义的转换运算符，或者无法调用该运算符
+  E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(224,39):
+  或    “std::basic_ostream<wchar_t,std::char_traits<wchar_t>> &std::basic_ostream<wchar_t,std::char_traits<wchar_t>>::operator <<(short)”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(188,12):
+  	“std::basic_ostream<wchar_t,std::char_traits<wchar_t>> &std::basic_ostream<wchar_t,std::char_traits<wchar_t>>::operator <<(short)”: 无法将参数 2 从“ld::string”转换为“short”
+  		F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(188,28):
+  		没有可用于执行该转换的用户定义的转换运算符，或者无法调用该运算符
+  E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(206,39):
+  或    “std::basic_ostream<wchar_t,std::char_traits<wchar_t>> &std::basic_ostream<wchar_t,std::char_traits<wchar_t>>::operator <<(bool)”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(188,12):
+  	“std::basic_ostream<wchar_t,std::char_traits<wchar_t>> &std::basic_ostream<wchar_t,std::char_traits<wchar_t>>::operator <<(bool)”: 无法将参数 2 从“ld::string”转换为“bool”
+  		F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(188,28):
+  		没有可用于执行该转换的用户定义的转换运算符，或者无法调用该运算符
+  E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(200,39):
+  或    “std::basic_ostream<wchar_t,std::char_traits<wchar_t>> &std::basic_ostream<wchar_t,std::char_traits<wchar_t>>::operator <<(std::ios_base &(__cdecl *)(std::ios_base &))”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(188,12):
+  	“std::basic_ostream<wchar_t,std::char_traits<wchar_t>> &std::basic_ostream<wchar_t,std::char_traits<wchar_t>>::operator <<(std::ios_base &(__cdecl *)(std::ios_base &))”: 无法将参数 2 从“ld::string”转换为“std::ios_base &(__cdecl *)(std::ios_base &)”
+  		F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(188,28):
+  		没有可用于执行该转换的用户定义的转换运算符，或者无法调用该运算符
+  E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(194,39):
+  或    “std::basic_ostream<wchar_t,std::char_traits<wchar_t>> &std::basic_ostream<wchar_t,std::char_traits<wchar_t>>::operator <<(std::basic_ios<wchar_t,std::char_traits<wchar_t>> &(__cdecl *)(std::basic_ios<wchar_t,std::char_traits<wchar_t>> &))”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(188,12):
+  	“std::basic_ostream<wchar_t,std::char_traits<wchar_t>> &std::basic_ostream<wchar_t,std::char_traits<wchar_t>>::operator <<(std::basic_ios<wchar_t,std::char_traits<wchar_t>> &(__cdecl *)(std::basic_ios<wchar_t,std::char_traits<wchar_t>> &))”: 无法将参数 2 从“ld::string”转换为“std::basic_ios<wchar_t,std::char_traits<wchar_t>> &(__cdecl *)(std::basic_ios<wchar_t,std::char_traits<wchar_t>> &)”
+  		F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(188,28):
+  		没有可用于执行该转换的用户定义的转换运算符，或者无法调用该运算符
+  E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(189,39):
+  或    “std::basic_ostream<wchar_t,std::char_traits<wchar_t>> &std::basic_ostream<wchar_t,std::char_traits<wchar_t>>::operator <<(std::basic_ostream<wchar_t,std::char_traits<wchar_t>> &(__cdecl *)(std::basic_ostream<wchar_t,std::char_traits<wchar_t>> &))”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(188,12):
+  	“std::basic_ostream<wchar_t,std::char_traits<wchar_t>> &std::basic_ostream<wchar_t,std::char_traits<wchar_t>>::operator <<(std::basic_ostream<wchar_t,std::char_traits<wchar_t>> &(__cdecl *)(std::basic_ostream<wchar_t,std::char_traits<wchar_t>> &))”: 无法将参数 2 从“ld::string”转换为“std::basic_ostream<wchar_t,std::char_traits<wchar_t>> &(__cdecl *)(std::basic_ostream<wchar_t,std::char_traits<wchar_t>> &)”
+  		F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(188,28):
+  		没有可用于执行该转换的用户定义的转换运算符，或者无法调用该运算符
+  F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(142,17):
+  或    “std::wostream &ld::operator <<(std::wostream &,const ld::ConsoleBackgroundColor &)”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(188,12):
+  	“std::wostream &ld::operator <<(std::wostream &,const ld::ConsoleBackgroundColor &)”: 无法将参数 2 从“ld::string”转换为“const ld::ConsoleBackgroundColor &”
+  		F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(188,28):
+  		原因如下: 无法从“ld::string”转换为“const ld::ConsoleBackgroundColor”
+  		F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(188,28):
+  		没有可用于执行该转换的用户定义的转换运算符，或者无法调用该运算符
+  F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(129,17):
+  或    “std::wostream &ld::operator <<(std::wostream &,const ld::ConsoleColor &)”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(188,12):
+  	“std::wostream &ld::operator <<(std::wostream &,const ld::ConsoleColor &)”: 无法将参数 2 从“ld::string”转换为“const ld::ConsoleColor &”
+  		F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(188,28):
+  		原因如下: 无法从“ld::string”转换为“const ld::ConsoleColor”
+  		F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(188,28):
+  		没有可用于执行该转换的用户定义的转换运算符，或者无法调用该运算符
+  F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(116,16):
+  或    “std::ostream &ld::operator <<(std::ostream &,const ld::ConsoleBackgroundColor &)”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(188,12):
+  	“std::ostream &ld::operator <<(std::ostream &,const ld::ConsoleBackgroundColor &)”: 无法将参数 1 从“std::basic_ostream<wchar_t,std::char_traits<wchar_t>>”转换为“std::ostream &”
+  F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(103,16):
+  或    “std::ostream &ld::operator <<(std::ostream &,const ld::ConsoleColor &)”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(188,12):
+  	“std::ostream &ld::operator <<(std::ostream &,const ld::ConsoleColor &)”: 无法将参数 1 从“std::basic_ostream<wchar_t,std::char_traits<wchar_t>>”转换为“std::ostream &”
+  E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(475,20):
+  或    “std::basic_ostream<wchar_t,std::char_traits<wchar_t>> &std::basic_ostream<wchar_t,std::char_traits<wchar_t>>::operator <<(std::nullptr_t)”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(188,28):
+  	“初始化”: 无法从“ld::string”转换为“std::nullptr_t”
+  		F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(188,28):
+  		没有可用于执行该转换的用户定义的转换运算符，或者无法调用该运算符
+  E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\cstddef(37,27):
+  或    “std::byte std::operator <<(const std::byte,const _IntType) noexcept”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(188,12):
+  	“std::byte std::operator <<(const std::byte,const _IntType) noexcept”: 无法推导“__formal”的 模板 参数
+  		E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\cmath(563,27):
+  		“std::enable_if_t<false,int>”: 未能使别名模板专用化
+  E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(1804,32):
+  或    “std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::basic_string_view<_Elem,_Traits>)”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(188,12):
+  	“std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::basic_string_view<_Elem,_Traits>)”: 无法从“ld::string”推导出“const std::basic_string_view<_Elem,_Traits>”的 模板 参数
+  E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(5228,32):
+  或    “std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::basic_string<_Elem,_Traits,_Alloc> &)”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(188,12):
+  	“std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::basic_string<_Elem,_Traits,_Alloc> &)”: 模板 参数“_Elem”不明确
+  		F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(188,12):
+  		可能是“char”
+  		F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(188,12):
+  		或    “wchar_t”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(188,12):
+  	“std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::basic_string<_Elem,_Traits,_Alloc> &)”: 无法从“ld::string”推导出“const std::basic_string<_Elem,_Traits,_Alloc> &”的 模板 参数
+  E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\memory(1946,32):
+  或    “std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::shared_ptr<_Ty> &)”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(188,12):
+  	“std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::shared_ptr<_Ty> &)”: 无法从“ld::string”推导出“const std::shared_ptr<_Ty> &”的 模板 参数
+  E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\memory(3598,32):
+  或    “std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::unique_ptr<_Ty2,_Dx2> &)”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(188,12):
+  	“std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::unique_ptr<_Ty2,_Dx2> &)”: 无法从“ld::string”推导出“const std::unique_ptr<_Ty2,_Dx2> &”的 模板 参数
+  E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(686,32):
+  或    “std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const char *)”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(188,28):
+  	“初始化”: 无法从“ld::string”转换为“const char *”
+  		F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(188,28):
+  		没有可用于执行该转换的用户定义的转换运算符，或者无法调用该运算符
+  E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(730,32):
+  或    “std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,char)”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(188,28):
+  	“初始化”: 无法从“ld::string”转换为“char”
+  		F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(188,28):
+  		没有可用于执行该转换的用户定义的转换运算符，或者无法调用该运算符
+  E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(766,31):
+  或    “std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const char *)”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(188,12):
+  	“std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const char *)”: 无法从“std::basic_ostream<wchar_t,std::char_traits<wchar_t>>”推导出“std::basic_ostream<char,_Traits> &”的 模板 参数
+  E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(811,31):
+  或    “std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,char)”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(188,12):
+  	“std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,char)”: 无法从“std::basic_ostream<wchar_t,std::char_traits<wchar_t>>”推导出“std::basic_ostream<char,_Traits> &”的 模板 参数
+  E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(849,32):
+  或    “std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const _Elem *)”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(188,12):
+  	“std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const _Elem *)”: 无法从“ld::string”推导出“const _Elem *”的 模板 参数
+  E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(892,32):
+  或    “std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,_Elem)”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(188,12):
+  	“std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,_Elem)”: 模板 参数“_Elem”不明确
+  		F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(188,12):
+  		可能是“ld::string”
+  		F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(188,12):
+  		或    “wchar_t”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(188,12):
+  	“std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,_Elem)”: 无法从“ld::string”推导出“_Elem”的 模板 参数
+  E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(928,31):
+  或    “std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const signed char *)”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(188,12):
+  	“std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const signed char *)”: 无法从“std::basic_ostream<wchar_t,std::char_traits<wchar_t>>”推导出“std::basic_ostream<char,_Traits> &”的 模板 参数
+  E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(934,31):
+  或    “std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,signed char)”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(188,12):
+  	“std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,signed char)”: 无法从“std::basic_ostream<wchar_t,std::char_traits<wchar_t>>”推导出“std::basic_ostream<char,_Traits> &”的 模板 参数
+  E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(939,31):
+  或    “std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const unsigned char *)”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(188,12):
+  	“std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const unsigned char *)”: 无法从“std::basic_ostream<wchar_t,std::char_traits<wchar_t>>”推导出“std::basic_ostream<char,_Traits> &”的 模板 参数
+  E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(945,31):
+  或    “std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,unsigned char)”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(188,12):
+  	“std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,unsigned char)”: 无法从“std::basic_ostream<wchar_t,std::char_traits<wchar_t>>”推导出“std::basic_ostream<char,_Traits> &”的 模板 参数
+  E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(1003,9):
+  或    “_Ostr &&std::operator <<(_Ostr &&,const _Ty &)”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(188,12):
+  	“_Ostr &&std::operator <<(_Ostr &&,const _Ty &)”: 无法推导“__formal”的 模板 参数
+  		E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(1002,103):
+  		“<template-parameter>”: 无法创建指向引用的指针
+  E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(1080,32):
+  或    “std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::error_code &)”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(188,28):
+  	“初始化”: 无法从“ld::string”转换为“const std::error_code &”
+  		F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(188,28):
+  		原因如下: 无法从“ld::string”转换为“const std::error_code”
+  		F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(188,28):
+  		没有可用于执行该转换的用户定义的转换运算符，或者无法调用该运算符
+  E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\complex(2265,28):
+  或    “std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::complex<_Other> &)”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(188,12):
+  	“std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::complex<_Other> &)”: 无法从“ld::string”推导出“const std::complex<_Other> &”的 模板 参数
+  E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\bitset(518,28):
+  或    “std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::bitset<_Bits> &)”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(188,12):
+  	“std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::bitset<_Bits> &)”: 无法从“ld::string”推导出“const std::bitset<_Bits> &”的 模板 参数
+  E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\valarray(788,26):
+  或    “std::valarray<_Ty> std::operator <<(const std::valarray<_Ty> &,const valarray<_Ty>::value_type &)”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(188,12):
+  	“std::valarray<_Ty> std::operator <<(const std::valarray<_Ty> &,const valarray<_Ty>::value_type &)”: 无法从“std::basic_ostream<wchar_t,std::char_traits<wchar_t>>”推导出“const std::valarray<_Ty> &”的 模板 参数
+  E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\valarray(798,26):
+  或    “std::valarray<_Ty> std::operator <<(const valarray<_Ty>::value_type &,const std::valarray<_Ty> &)”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(188,12):
+  	“std::valarray<_Ty> std::operator <<(const valarray<_Ty>::value_type &,const std::valarray<_Ty> &)”: 无法从“ld::string”推导出“const std::valarray<_Ty> &”的 模板 参数
+  E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\valarray(972,26):
+  或    “std::valarray<_Ty> std::operator <<(const std::valarray<_Ty> &,const std::valarray<_Ty> &)”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(188,12):
+  	“std::valarray<_Ty> std::operator <<(const std::valarray<_Ty> &,const std::valarray<_Ty> &)”: 无法从“std::basic_ostream<wchar_t,std::char_traits<wchar_t>>”推导出“const std::valarray<_Ty> &”的 模板 参数
+  E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\thread(243,37):
+  或    “std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,std::thread::id)”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(188,28):
+  	“初始化”: 无法从“ld::string”转换为“std::thread::id”
+  		F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(188,28):
+  		没有可用于执行该转换的用户定义的转换运算符，或者无法调用该运算符
+  E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\regex(981,32):
+  或    “std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::sub_match<_BidIt> &)”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(188,12):
+  	“std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::sub_match<_BidIt> &)”: 无法从“ld::string”推导出“const std::sub_match<_BidIt> &”的 模板 参数
+  F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(188,12):
+  尝试匹配参数列表“(std::basic_ostream<wchar_t,std::char_traits<wchar_t>>, ld::string)”时
+  
+F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(208,12): error C2678: 二进制“<<”: 没有找到接受“std::basic_ostream<wchar_t,std::char_traits<wchar_t>>”类型的左操作数的运算符(或没有可接受的转换)
+  E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(480,39):
+  可能是“std::basic_ostream<wchar_t,std::char_traits<wchar_t>> &std::basic_ostream<wchar_t,std::char_traits<wchar_t>>::operator <<(std::basic_streambuf<wchar_t,std::char_traits<wchar_t>> *)”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(208,12):
+  	“std::basic_ostream<wchar_t,std::char_traits<wchar_t>> &std::basic_ostream<wchar_t,std::char_traits<wchar_t>>::operator <<(std::basic_streambuf<wchar_t,std::char_traits<wchar_t>> *)”: 无法将参数 2 从“const ld::string”转换为“std::basic_streambuf<wchar_t,std::char_traits<wchar_t>> *”
+  		F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(208,28):
+  		没有可用于执行该转换的用户定义的转换运算符，或者无法调用该运算符
+  E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(448,39):
+  或    “std::basic_ostream<wchar_t,std::char_traits<wchar_t>> &std::basic_ostream<wchar_t,std::char_traits<wchar_t>>::operator <<(const void *)”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(208,12):
+  	“std::basic_ostream<wchar_t,std::char_traits<wchar_t>> &std::basic_ostream<wchar_t,std::char_traits<wchar_t>>::operator <<(const void *)”: 无法将参数 2 从“const ld::string”转换为“const void *”
+  		F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(208,28):
+  		没有可用于执行该转换的用户定义的转换运算符，或者无法调用该运算符
+  E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(430,39):
+  或    “std::basic_ostream<wchar_t,std::char_traits<wchar_t>> &std::basic_ostream<wchar_t,std::char_traits<wchar_t>>::operator <<(long double)”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(208,12):
+  	“std::basic_ostream<wchar_t,std::char_traits<wchar_t>> &std::basic_ostream<wchar_t,std::char_traits<wchar_t>>::operator <<(long double)”: 无法将参数 2 从“const ld::string”转换为“long double”
+  		F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(208,28):
+  		没有可用于执行该转换的用户定义的转换运算符，或者无法调用该运算符
+  E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(412,39):
+  或    “std::basic_ostream<wchar_t,std::char_traits<wchar_t>> &std::basic_ostream<wchar_t,std::char_traits<wchar_t>>::operator <<(double)”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(208,12):
+  	“std::basic_ostream<wchar_t,std::char_traits<wchar_t>> &std::basic_ostream<wchar_t,std::char_traits<wchar_t>>::operator <<(double)”: 无法将参数 2 从“const ld::string”转换为“double”
+  		F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(208,28):
+  		没有可用于执行该转换的用户定义的转换运算符，或者无法调用该运算符
+  E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(394,39):
+  或    “std::basic_ostream<wchar_t,std::char_traits<wchar_t>> &std::basic_ostream<wchar_t,std::char_traits<wchar_t>>::operator <<(float)”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(208,12):
+  	“std::basic_ostream<wchar_t,std::char_traits<wchar_t>> &std::basic_ostream<wchar_t,std::char_traits<wchar_t>>::operator <<(float)”: 无法将参数 2 从“const ld::string”转换为“float”
+  		F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(208,28):
+  		没有可用于执行该转换的用户定义的转换运算符，或者无法调用该运算符
+  E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(376,39):
+  或    “std::basic_ostream<wchar_t,std::char_traits<wchar_t>> &std::basic_ostream<wchar_t,std::char_traits<wchar_t>>::operator <<(unsigned __int64)”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(208,12):
+  	“std::basic_ostream<wchar_t,std::char_traits<wchar_t>> &std::basic_ostream<wchar_t,std::char_traits<wchar_t>>::operator <<(unsigned __int64)”: 无法将参数 2 从“const ld::string”转换为“unsigned __int64”
+  		F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(208,28):
+  		没有可用于执行该转换的用户定义的转换运算符，或者无法调用该运算符
+  E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(358,39):
+  或    “std::basic_ostream<wchar_t,std::char_traits<wchar_t>> &std::basic_ostream<wchar_t,std::char_traits<wchar_t>>::operator <<(__int64)”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(208,12):
+  	“std::basic_ostream<wchar_t,std::char_traits<wchar_t>> &std::basic_ostream<wchar_t,std::char_traits<wchar_t>>::operator <<(__int64)”: 无法将参数 2 从“const ld::string”转换为“__int64”
+  		F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(208,28):
+  		没有可用于执行该转换的用户定义的转换运算符，或者无法调用该运算符
+  E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(340,39):
+  或    “std::basic_ostream<wchar_t,std::char_traits<wchar_t>> &std::basic_ostream<wchar_t,std::char_traits<wchar_t>>::operator <<(unsigned long)”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(208,12):
+  	“std::basic_ostream<wchar_t,std::char_traits<wchar_t>> &std::basic_ostream<wchar_t,std::char_traits<wchar_t>>::operator <<(unsigned long)”: 无法将参数 2 从“const ld::string”转换为“unsigned long”
+  		F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(208,28):
+  		没有可用于执行该转换的用户定义的转换运算符，或者无法调用该运算符
+  E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(322,39):
+  或    “std::basic_ostream<wchar_t,std::char_traits<wchar_t>> &std::basic_ostream<wchar_t,std::char_traits<wchar_t>>::operator <<(long)”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(208,12):
+  	“std::basic_ostream<wchar_t,std::char_traits<wchar_t>> &std::basic_ostream<wchar_t,std::char_traits<wchar_t>>::operator <<(long)”: 无法将参数 2 从“const ld::string”转换为“long”
+  		F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(208,28):
+  		没有可用于执行该转换的用户定义的转换运算符，或者无法调用该运算符
+  E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(303,39):
+  或    “std::basic_ostream<wchar_t,std::char_traits<wchar_t>> &std::basic_ostream<wchar_t,std::char_traits<wchar_t>>::operator <<(unsigned int)”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(208,12):
+  	“std::basic_ostream<wchar_t,std::char_traits<wchar_t>> &std::basic_ostream<wchar_t,std::char_traits<wchar_t>>::operator <<(unsigned int)”: 无法将参数 2 从“const ld::string”转换为“unsigned int”
+  		F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(208,28):
+  		没有可用于执行该转换的用户定义的转换运算符，或者无法调用该运算符
+  E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(277,39):
+  或    “std::basic_ostream<wchar_t,std::char_traits<wchar_t>> &std::basic_ostream<wchar_t,std::char_traits<wchar_t>>::operator <<(int)”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(208,12):
+  	“std::basic_ostream<wchar_t,std::char_traits<wchar_t>> &std::basic_ostream<wchar_t,std::char_traits<wchar_t>>::operator <<(int)”: 无法将参数 2 从“const ld::string”转换为“int”
+  		F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(208,28):
+  		没有可用于执行该转换的用户定义的转换运算符，或者无法调用该运算符
+  E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(258,39):
+  或    “std::basic_ostream<wchar_t,std::char_traits<wchar_t>> &std::basic_ostream<wchar_t,std::char_traits<wchar_t>>::operator <<(unsigned short)”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(208,12):
+  	“std::basic_ostream<wchar_t,std::char_traits<wchar_t>> &std::basic_ostream<wchar_t,std::char_traits<wchar_t>>::operator <<(unsigned short)”: 无法将参数 2 从“const ld::string”转换为“unsigned short”
+  		F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(208,28):
+  		没有可用于执行该转换的用户定义的转换运算符，或者无法调用该运算符
+  E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(224,39):
+  或    “std::basic_ostream<wchar_t,std::char_traits<wchar_t>> &std::basic_ostream<wchar_t,std::char_traits<wchar_t>>::operator <<(short)”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(208,12):
+  	“std::basic_ostream<wchar_t,std::char_traits<wchar_t>> &std::basic_ostream<wchar_t,std::char_traits<wchar_t>>::operator <<(short)”: 无法将参数 2 从“const ld::string”转换为“short”
+  		F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(208,28):
+  		没有可用于执行该转换的用户定义的转换运算符，或者无法调用该运算符
+  E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(206,39):
+  或    “std::basic_ostream<wchar_t,std::char_traits<wchar_t>> &std::basic_ostream<wchar_t,std::char_traits<wchar_t>>::operator <<(bool)”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(208,12):
+  	“std::basic_ostream<wchar_t,std::char_traits<wchar_t>> &std::basic_ostream<wchar_t,std::char_traits<wchar_t>>::operator <<(bool)”: 无法将参数 2 从“const ld::string”转换为“bool”
+  		F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(208,28):
+  		没有可用于执行该转换的用户定义的转换运算符，或者无法调用该运算符
+  E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(200,39):
+  或    “std::basic_ostream<wchar_t,std::char_traits<wchar_t>> &std::basic_ostream<wchar_t,std::char_traits<wchar_t>>::operator <<(std::ios_base &(__cdecl *)(std::ios_base &))”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(208,12):
+  	“std::basic_ostream<wchar_t,std::char_traits<wchar_t>> &std::basic_ostream<wchar_t,std::char_traits<wchar_t>>::operator <<(std::ios_base &(__cdecl *)(std::ios_base &))”: 无法将参数 2 从“const ld::string”转换为“std::ios_base &(__cdecl *)(std::ios_base &)”
+  		F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(208,28):
+  		没有可用于执行该转换的用户定义的转换运算符，或者无法调用该运算符
+  E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(194,39):
+  或    “std::basic_ostream<wchar_t,std::char_traits<wchar_t>> &std::basic_ostream<wchar_t,std::char_traits<wchar_t>>::operator <<(std::basic_ios<wchar_t,std::char_traits<wchar_t>> &(__cdecl *)(std::basic_ios<wchar_t,std::char_traits<wchar_t>> &))”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(208,12):
+  	“std::basic_ostream<wchar_t,std::char_traits<wchar_t>> &std::basic_ostream<wchar_t,std::char_traits<wchar_t>>::operator <<(std::basic_ios<wchar_t,std::char_traits<wchar_t>> &(__cdecl *)(std::basic_ios<wchar_t,std::char_traits<wchar_t>> &))”: 无法将参数 2 从“const ld::string”转换为“std::basic_ios<wchar_t,std::char_traits<wchar_t>> &(__cdecl *)(std::basic_ios<wchar_t,std::char_traits<wchar_t>> &)”
+  		F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(208,28):
+  		没有可用于执行该转换的用户定义的转换运算符，或者无法调用该运算符
+  E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(189,39):
+  或    “std::basic_ostream<wchar_t,std::char_traits<wchar_t>> &std::basic_ostream<wchar_t,std::char_traits<wchar_t>>::operator <<(std::basic_ostream<wchar_t,std::char_traits<wchar_t>> &(__cdecl *)(std::basic_ostream<wchar_t,std::char_traits<wchar_t>> &))”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(208,12):
+  	“std::basic_ostream<wchar_t,std::char_traits<wchar_t>> &std::basic_ostream<wchar_t,std::char_traits<wchar_t>>::operator <<(std::basic_ostream<wchar_t,std::char_traits<wchar_t>> &(__cdecl *)(std::basic_ostream<wchar_t,std::char_traits<wchar_t>> &))”: 无法将参数 2 从“const ld::string”转换为“std::basic_ostream<wchar_t,std::char_traits<wchar_t>> &(__cdecl *)(std::basic_ostream<wchar_t,std::char_traits<wchar_t>> &)”
+  		F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(208,28):
+  		没有可用于执行该转换的用户定义的转换运算符，或者无法调用该运算符
+  F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(142,17):
+  或    “std::wostream &ld::operator <<(std::wostream &,const ld::ConsoleBackgroundColor &)”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(208,12):
+  	“std::wostream &ld::operator <<(std::wostream &,const ld::ConsoleBackgroundColor &)”: 无法将参数 2 从“const ld::string”转换为“const ld::ConsoleBackgroundColor &”
+  		F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(208,28):
+  		原因如下: 无法从“const ld::string”转换为“const ld::ConsoleBackgroundColor”
+  		F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(208,28):
+  		没有可用于执行该转换的用户定义的转换运算符，或者无法调用该运算符
+  F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(129,17):
+  或    “std::wostream &ld::operator <<(std::wostream &,const ld::ConsoleColor &)”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(208,12):
+  	“std::wostream &ld::operator <<(std::wostream &,const ld::ConsoleColor &)”: 无法将参数 2 从“const ld::string”转换为“const ld::ConsoleColor &”
+  		F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(208,28):
+  		原因如下: 无法从“const ld::string”转换为“const ld::ConsoleColor”
+  		F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(208,28):
+  		没有可用于执行该转换的用户定义的转换运算符，或者无法调用该运算符
+  F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(116,16):
+  或    “std::ostream &ld::operator <<(std::ostream &,const ld::ConsoleBackgroundColor &)”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(208,12):
+  	“std::ostream &ld::operator <<(std::ostream &,const ld::ConsoleBackgroundColor &)”: 无法将参数 1 从“std::basic_ostream<wchar_t,std::char_traits<wchar_t>>”转换为“std::ostream &”
+  F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(103,16):
+  或    “std::ostream &ld::operator <<(std::ostream &,const ld::ConsoleColor &)”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(208,12):
+  	“std::ostream &ld::operator <<(std::ostream &,const ld::ConsoleColor &)”: 无法将参数 1 从“std::basic_ostream<wchar_t,std::char_traits<wchar_t>>”转换为“std::ostream &”
+  E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(475,20):
+  或    “std::basic_ostream<wchar_t,std::char_traits<wchar_t>> &std::basic_ostream<wchar_t,std::char_traits<wchar_t>>::operator <<(std::nullptr_t)”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(208,28):
+  	“初始化”: 无法从“const ld::string”转换为“std::nullptr_t”
+  		F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(208,28):
+  		没有可用于执行该转换的用户定义的转换运算符，或者无法调用该运算符
+  E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\cstddef(37,27):
+  或    “std::byte std::operator <<(const std::byte,const _IntType) noexcept”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(208,12):
+  	“std::byte std::operator <<(const std::byte,const _IntType) noexcept”: 无法推导“__formal”的 模板 参数
+  		E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\cmath(563,27):
+  		“std::enable_if_t<false,int>”: 未能使别名模板专用化
+  E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(1804,32):
+  或    “std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::basic_string_view<_Elem,_Traits>)”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(208,12):
+  	“std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::basic_string_view<_Elem,_Traits>)”: 无法从“const ld::string”推导出“const std::basic_string_view<_Elem,_Traits>”的 模板 参数
+  E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(5228,32):
+  或    “std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::basic_string<_Elem,_Traits,_Alloc> &)”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(208,12):
+  	“std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::basic_string<_Elem,_Traits,_Alloc> &)”: 模板 参数“_Elem”不明确
+  		F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(208,12):
+  		可能是“char”
+  		F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(208,12):
+  		或    “wchar_t”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(208,12):
+  	“std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::basic_string<_Elem,_Traits,_Alloc> &)”: 无法从“const ld::string”推导出“const std::basic_string<_Elem,_Traits,_Alloc> &”的 模板 参数
+  E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\memory(1946,32):
+  或    “std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::shared_ptr<_Ty> &)”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(208,12):
+  	“std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::shared_ptr<_Ty> &)”: 无法从“const ld::string”推导出“const std::shared_ptr<_Ty> &”的 模板 参数
+  E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\memory(3598,32):
+  或    “std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::unique_ptr<_Ty2,_Dx2> &)”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(208,12):
+  	“std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::unique_ptr<_Ty2,_Dx2> &)”: 无法从“const ld::string”推导出“const std::unique_ptr<_Ty2,_Dx2> &”的 模板 参数
+  E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(686,32):
+  或    “std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const char *)”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(208,28):
+  	“初始化”: 无法从“const ld::string”转换为“const char *”
+  		F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(208,28):
+  		没有可用于执行该转换的用户定义的转换运算符，或者无法调用该运算符
+  E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(730,32):
+  或    “std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,char)”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(208,28):
+  	“初始化”: 无法从“const ld::string”转换为“char”
+  		F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(208,28):
+  		没有可用于执行该转换的用户定义的转换运算符，或者无法调用该运算符
+  E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(766,31):
+  或    “std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const char *)”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(208,12):
+  	“std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const char *)”: 无法从“std::basic_ostream<wchar_t,std::char_traits<wchar_t>>”推导出“std::basic_ostream<char,_Traits> &”的 模板 参数
+  E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(811,31):
+  或    “std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,char)”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(208,12):
+  	“std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,char)”: 无法从“std::basic_ostream<wchar_t,std::char_traits<wchar_t>>”推导出“std::basic_ostream<char,_Traits> &”的 模板 参数
+  E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(849,32):
+  或    “std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const _Elem *)”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(208,12):
+  	“std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const _Elem *)”: 无法从“const ld::string”推导出“const _Elem *”的 模板 参数
+  E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(892,32):
+  或    “std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,_Elem)”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(208,12):
+  	“std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,_Elem)”: 模板 参数“_Elem”不明确
+  		F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(208,12):
+  		可能是“ld::string”
+  		F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(208,12):
+  		或    “wchar_t”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(208,12):
+  	“std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,_Elem)”: 无法从“const ld::string”推导出“_Elem”的 模板 参数
+  E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(928,31):
+  或    “std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const signed char *)”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(208,12):
+  	“std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const signed char *)”: 无法从“std::basic_ostream<wchar_t,std::char_traits<wchar_t>>”推导出“std::basic_ostream<char,_Traits> &”的 模板 参数
+  E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(934,31):
+  或    “std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,signed char)”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(208,12):
+  	“std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,signed char)”: 无法从“std::basic_ostream<wchar_t,std::char_traits<wchar_t>>”推导出“std::basic_ostream<char,_Traits> &”的 模板 参数
+  E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(939,31):
+  或    “std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const unsigned char *)”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(208,12):
+  	“std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const unsigned char *)”: 无法从“std::basic_ostream<wchar_t,std::char_traits<wchar_t>>”推导出“std::basic_ostream<char,_Traits> &”的 模板 参数
+  E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(945,31):
+  或    “std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,unsigned char)”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(208,12):
+  	“std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,unsigned char)”: 无法从“std::basic_ostream<wchar_t,std::char_traits<wchar_t>>”推导出“std::basic_ostream<char,_Traits> &”的 模板 参数
+  E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(1003,9):
+  或    “_Ostr &&std::operator <<(_Ostr &&,const _Ty &)”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(208,12):
+  	“_Ostr &&std::operator <<(_Ostr &&,const _Ty &)”: 无法推导“__formal”的 模板 参数
+  		E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(1002,103):
+  		“<template-parameter>”: 无法创建指向引用的指针
+  E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(1080,32):
+  或    “std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::error_code &)”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(208,28):
+  	“初始化”: 无法从“const ld::string”转换为“const std::error_code &”
+  		F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(208,28):
+  		原因如下: 无法从“const ld::string”转换为“const std::error_code”
+  		F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(208,28):
+  		没有可用于执行该转换的用户定义的转换运算符，或者无法调用该运算符
+  E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\complex(2265,28):
+  或    “std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::complex<_Other> &)”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(208,12):
+  	“std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::complex<_Other> &)”: 无法从“const ld::string”推导出“const std::complex<_Other> &”的 模板 参数
+  E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\bitset(518,28):
+  或    “std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::bitset<_Bits> &)”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(208,12):
+  	“std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::bitset<_Bits> &)”: 无法从“const ld::string”推导出“const std::bitset<_Bits> &”的 模板 参数
+  E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\valarray(788,26):
+  或    “std::valarray<_Ty> std::operator <<(const std::valarray<_Ty> &,const valarray<_Ty>::value_type &)”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(208,12):
+  	“std::valarray<_Ty> std::operator <<(const std::valarray<_Ty> &,const valarray<_Ty>::value_type &)”: 无法从“std::basic_ostream<wchar_t,std::char_traits<wchar_t>>”推导出“const std::valarray<_Ty> &”的 模板 参数
+  E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\valarray(798,26):
+  或    “std::valarray<_Ty> std::operator <<(const valarray<_Ty>::value_type &,const std::valarray<_Ty> &)”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(208,12):
+  	“std::valarray<_Ty> std::operator <<(const valarray<_Ty>::value_type &,const std::valarray<_Ty> &)”: 无法从“const ld::string”推导出“const std::valarray<_Ty> &”的 模板 参数
+  E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\valarray(972,26):
+  或    “std::valarray<_Ty> std::operator <<(const std::valarray<_Ty> &,const std::valarray<_Ty> &)”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(208,12):
+  	“std::valarray<_Ty> std::operator <<(const std::valarray<_Ty> &,const std::valarray<_Ty> &)”: 无法从“std::basic_ostream<wchar_t,std::char_traits<wchar_t>>”推导出“const std::valarray<_Ty> &”的 模板 参数
+  E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\thread(243,37):
+  或    “std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,std::thread::id)”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(208,28):
+  	“初始化”: 无法从“const ld::string”转换为“std::thread::id”
+  		F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(208,28):
+  		没有可用于执行该转换的用户定义的转换运算符，或者无法调用该运算符
+  E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\regex(981,32):
+  或    “std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::sub_match<_BidIt> &)”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(208,12):
+  	“std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::sub_match<_BidIt> &)”: 无法从“const ld::string”推导出“const std::sub_match<_BidIt> &”的 模板 参数
+  F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(208,12):
+  尝试匹配参数列表“(std::basic_ostream<wchar_t,std::char_traits<wchar_t>>, const ld::string)”时
+  
+F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(223,21): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(228,14): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(239,21): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(244,14): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(271,11): error C2678: 二进制“<<”: 没有找到接受“std::basic_ostream<wchar_t,std::char_traits<wchar_t>>”类型的左操作数的运算符(或没有可接受的转换)
+  E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(480,39):
+  可能是“std::basic_ostream<wchar_t,std::char_traits<wchar_t>> &std::basic_ostream<wchar_t,std::char_traits<wchar_t>>::operator <<(std::basic_streambuf<wchar_t,std::char_traits<wchar_t>> *)”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(271,11):
+  	“std::basic_ostream<wchar_t,std::char_traits<wchar_t>> &std::basic_ostream<wchar_t,std::char_traits<wchar_t>>::operator <<(std::basic_streambuf<wchar_t,std::char_traits<wchar_t>> *)”: 无法将参数 2 从“const ld::ConsolePro::string”转换为“std::basic_streambuf<wchar_t,std::char_traits<wchar_t>> *”
+  		F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(271,21):
+  		没有可用于执行该转换的用户定义的转换运算符，或者无法调用该运算符
+  E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(448,39):
+  或    “std::basic_ostream<wchar_t,std::char_traits<wchar_t>> &std::basic_ostream<wchar_t,std::char_traits<wchar_t>>::operator <<(const void *)”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(271,11):
+  	“std::basic_ostream<wchar_t,std::char_traits<wchar_t>> &std::basic_ostream<wchar_t,std::char_traits<wchar_t>>::operator <<(const void *)”: 无法将参数 2 从“const ld::ConsolePro::string”转换为“const void *”
+  		F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(271,21):
+  		没有可用于执行该转换的用户定义的转换运算符，或者无法调用该运算符
+  E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(430,39):
+  或    “std::basic_ostream<wchar_t,std::char_traits<wchar_t>> &std::basic_ostream<wchar_t,std::char_traits<wchar_t>>::operator <<(long double)”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(271,11):
+  	“std::basic_ostream<wchar_t,std::char_traits<wchar_t>> &std::basic_ostream<wchar_t,std::char_traits<wchar_t>>::operator <<(long double)”: 无法将参数 2 从“const ld::ConsolePro::string”转换为“long double”
+  		F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(271,21):
+  		没有可用于执行该转换的用户定义的转换运算符，或者无法调用该运算符
+  E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(412,39):
+  或    “std::basic_ostream<wchar_t,std::char_traits<wchar_t>> &std::basic_ostream<wchar_t,std::char_traits<wchar_t>>::operator <<(double)”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(271,11):
+  	“std::basic_ostream<wchar_t,std::char_traits<wchar_t>> &std::basic_ostream<wchar_t,std::char_traits<wchar_t>>::operator <<(double)”: 无法将参数 2 从“const ld::ConsolePro::string”转换为“double”
+  		F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(271,21):
+  		没有可用于执行该转换的用户定义的转换运算符，或者无法调用该运算符
+  E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(394,39):
+  或    “std::basic_ostream<wchar_t,std::char_traits<wchar_t>> &std::basic_ostream<wchar_t,std::char_traits<wchar_t>>::operator <<(float)”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(271,11):
+  	“std::basic_ostream<wchar_t,std::char_traits<wchar_t>> &std::basic_ostream<wchar_t,std::char_traits<wchar_t>>::operator <<(float)”: 无法将参数 2 从“const ld::ConsolePro::string”转换为“float”
+  		F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(271,21):
+  		没有可用于执行该转换的用户定义的转换运算符，或者无法调用该运算符
+  E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(376,39):
+  或    “std::basic_ostream<wchar_t,std::char_traits<wchar_t>> &std::basic_ostream<wchar_t,std::char_traits<wchar_t>>::operator <<(unsigned __int64)”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(271,11):
+  	“std::basic_ostream<wchar_t,std::char_traits<wchar_t>> &std::basic_ostream<wchar_t,std::char_traits<wchar_t>>::operator <<(unsigned __int64)”: 无法将参数 2 从“const ld::ConsolePro::string”转换为“unsigned __int64”
+  		F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(271,21):
+  		没有可用于执行该转换的用户定义的转换运算符，或者无法调用该运算符
+  E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(358,39):
+  或    “std::basic_ostream<wchar_t,std::char_traits<wchar_t>> &std::basic_ostream<wchar_t,std::char_traits<wchar_t>>::operator <<(__int64)”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(271,11):
+  	“std::basic_ostream<wchar_t,std::char_traits<wchar_t>> &std::basic_ostream<wchar_t,std::char_traits<wchar_t>>::operator <<(__int64)”: 无法将参数 2 从“const ld::ConsolePro::string”转换为“__int64”
+  		F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(271,21):
+  		没有可用于执行该转换的用户定义的转换运算符，或者无法调用该运算符
+  E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(340,39):
+  或    “std::basic_ostream<wchar_t,std::char_traits<wchar_t>> &std::basic_ostream<wchar_t,std::char_traits<wchar_t>>::operator <<(unsigned long)”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(271,11):
+  	“std::basic_ostream<wchar_t,std::char_traits<wchar_t>> &std::basic_ostream<wchar_t,std::char_traits<wchar_t>>::operator <<(unsigned long)”: 无法将参数 2 从“const ld::ConsolePro::string”转换为“unsigned long”
+  		F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(271,21):
+  		没有可用于执行该转换的用户定义的转换运算符，或者无法调用该运算符
+  E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(322,39):
+  或    “std::basic_ostream<wchar_t,std::char_traits<wchar_t>> &std::basic_ostream<wchar_t,std::char_traits<wchar_t>>::operator <<(long)”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(271,11):
+  	“std::basic_ostream<wchar_t,std::char_traits<wchar_t>> &std::basic_ostream<wchar_t,std::char_traits<wchar_t>>::operator <<(long)”: 无法将参数 2 从“const ld::ConsolePro::string”转换为“long”
+  		F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(271,21):
+  		没有可用于执行该转换的用户定义的转换运算符，或者无法调用该运算符
+  E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(303,39):
+  或    “std::basic_ostream<wchar_t,std::char_traits<wchar_t>> &std::basic_ostream<wchar_t,std::char_traits<wchar_t>>::operator <<(unsigned int)”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(271,11):
+  	“std::basic_ostream<wchar_t,std::char_traits<wchar_t>> &std::basic_ostream<wchar_t,std::char_traits<wchar_t>>::operator <<(unsigned int)”: 无法将参数 2 从“const ld::ConsolePro::string”转换为“unsigned int”
+  		F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(271,21):
+  		没有可用于执行该转换的用户定义的转换运算符，或者无法调用该运算符
+  E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(277,39):
+  或    “std::basic_ostream<wchar_t,std::char_traits<wchar_t>> &std::basic_ostream<wchar_t,std::char_traits<wchar_t>>::operator <<(int)”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(271,11):
+  	“std::basic_ostream<wchar_t,std::char_traits<wchar_t>> &std::basic_ostream<wchar_t,std::char_traits<wchar_t>>::operator <<(int)”: 无法将参数 2 从“const ld::ConsolePro::string”转换为“int”
+  		F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(271,21):
+  		没有可用于执行该转换的用户定义的转换运算符，或者无法调用该运算符
+  E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(258,39):
+  或    “std::basic_ostream<wchar_t,std::char_traits<wchar_t>> &std::basic_ostream<wchar_t,std::char_traits<wchar_t>>::operator <<(unsigned short)”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(271,11):
+  	“std::basic_ostream<wchar_t,std::char_traits<wchar_t>> &std::basic_ostream<wchar_t,std::char_traits<wchar_t>>::operator <<(unsigned short)”: 无法将参数 2 从“const ld::ConsolePro::string”转换为“unsigned short”
+  		F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(271,21):
+  		没有可用于执行该转换的用户定义的转换运算符，或者无法调用该运算符
+  E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(224,39):
+  或    “std::basic_ostream<wchar_t,std::char_traits<wchar_t>> &std::basic_ostream<wchar_t,std::char_traits<wchar_t>>::operator <<(short)”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(271,11):
+  	“std::basic_ostream<wchar_t,std::char_traits<wchar_t>> &std::basic_ostream<wchar_t,std::char_traits<wchar_t>>::operator <<(short)”: 无法将参数 2 从“const ld::ConsolePro::string”转换为“short”
+  		F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(271,21):
+  		没有可用于执行该转换的用户定义的转换运算符，或者无法调用该运算符
+  E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(206,39):
+  或    “std::basic_ostream<wchar_t,std::char_traits<wchar_t>> &std::basic_ostream<wchar_t,std::char_traits<wchar_t>>::operator <<(bool)”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(271,11):
+  	“std::basic_ostream<wchar_t,std::char_traits<wchar_t>> &std::basic_ostream<wchar_t,std::char_traits<wchar_t>>::operator <<(bool)”: 无法将参数 2 从“const ld::ConsolePro::string”转换为“bool”
+  		F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(271,21):
+  		没有可用于执行该转换的用户定义的转换运算符，或者无法调用该运算符
+  E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(200,39):
+  或    “std::basic_ostream<wchar_t,std::char_traits<wchar_t>> &std::basic_ostream<wchar_t,std::char_traits<wchar_t>>::operator <<(std::ios_base &(__cdecl *)(std::ios_base &))”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(271,11):
+  	“std::basic_ostream<wchar_t,std::char_traits<wchar_t>> &std::basic_ostream<wchar_t,std::char_traits<wchar_t>>::operator <<(std::ios_base &(__cdecl *)(std::ios_base &))”: 无法将参数 2 从“const ld::ConsolePro::string”转换为“std::ios_base &(__cdecl *)(std::ios_base &)”
+  		F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(271,21):
+  		没有可用于执行该转换的用户定义的转换运算符，或者无法调用该运算符
+  E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(194,39):
+  或    “std::basic_ostream<wchar_t,std::char_traits<wchar_t>> &std::basic_ostream<wchar_t,std::char_traits<wchar_t>>::operator <<(std::basic_ios<wchar_t,std::char_traits<wchar_t>> &(__cdecl *)(std::basic_ios<wchar_t,std::char_traits<wchar_t>> &))”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(271,11):
+  	“std::basic_ostream<wchar_t,std::char_traits<wchar_t>> &std::basic_ostream<wchar_t,std::char_traits<wchar_t>>::operator <<(std::basic_ios<wchar_t,std::char_traits<wchar_t>> &(__cdecl *)(std::basic_ios<wchar_t,std::char_traits<wchar_t>> &))”: 无法将参数 2 从“const ld::ConsolePro::string”转换为“std::basic_ios<wchar_t,std::char_traits<wchar_t>> &(__cdecl *)(std::basic_ios<wchar_t,std::char_traits<wchar_t>> &)”
+  		F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(271,21):
+  		没有可用于执行该转换的用户定义的转换运算符，或者无法调用该运算符
+  E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(189,39):
+  或    “std::basic_ostream<wchar_t,std::char_traits<wchar_t>> &std::basic_ostream<wchar_t,std::char_traits<wchar_t>>::operator <<(std::basic_ostream<wchar_t,std::char_traits<wchar_t>> &(__cdecl *)(std::basic_ostream<wchar_t,std::char_traits<wchar_t>> &))”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(271,11):
+  	“std::basic_ostream<wchar_t,std::char_traits<wchar_t>> &std::basic_ostream<wchar_t,std::char_traits<wchar_t>>::operator <<(std::basic_ostream<wchar_t,std::char_traits<wchar_t>> &(__cdecl *)(std::basic_ostream<wchar_t,std::char_traits<wchar_t>> &))”: 无法将参数 2 从“const ld::ConsolePro::string”转换为“std::basic_ostream<wchar_t,std::char_traits<wchar_t>> &(__cdecl *)(std::basic_ostream<wchar_t,std::char_traits<wchar_t>> &)”
+  		F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(271,21):
+  		没有可用于执行该转换的用户定义的转换运算符，或者无法调用该运算符
+  F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(142,17):
+  或    “std::wostream &ld::operator <<(std::wostream &,const ld::ConsoleBackgroundColor &)”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(271,11):
+  	“std::wostream &ld::operator <<(std::wostream &,const ld::ConsoleBackgroundColor &)”: 无法将参数 2 从“const ld::ConsolePro::string”转换为“const ld::ConsoleBackgroundColor &”
+  		F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(271,21):
+  		原因如下: 无法从“const ld::ConsolePro::string”转换为“const ld::ConsoleBackgroundColor”
+  		F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(271,21):
+  		没有可用于执行该转换的用户定义的转换运算符，或者无法调用该运算符
+  F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(129,17):
+  或    “std::wostream &ld::operator <<(std::wostream &,const ld::ConsoleColor &)”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(271,11):
+  	“std::wostream &ld::operator <<(std::wostream &,const ld::ConsoleColor &)”: 无法将参数 2 从“const ld::ConsolePro::string”转换为“const ld::ConsoleColor &”
+  		F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(271,21):
+  		原因如下: 无法从“const ld::ConsolePro::string”转换为“const ld::ConsoleColor”
+  		F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(271,21):
+  		没有可用于执行该转换的用户定义的转换运算符，或者无法调用该运算符
+  F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(116,16):
+  或    “std::ostream &ld::operator <<(std::ostream &,const ld::ConsoleBackgroundColor &)”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(271,11):
+  	“std::ostream &ld::operator <<(std::ostream &,const ld::ConsoleBackgroundColor &)”: 无法将参数 1 从“std::basic_ostream<wchar_t,std::char_traits<wchar_t>>”转换为“std::ostream &”
+  F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(103,16):
+  或    “std::ostream &ld::operator <<(std::ostream &,const ld::ConsoleColor &)”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(271,11):
+  	“std::ostream &ld::operator <<(std::ostream &,const ld::ConsoleColor &)”: 无法将参数 1 从“std::basic_ostream<wchar_t,std::char_traits<wchar_t>>”转换为“std::ostream &”
+  E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(475,20):
+  或    “std::basic_ostream<wchar_t,std::char_traits<wchar_t>> &std::basic_ostream<wchar_t,std::char_traits<wchar_t>>::operator <<(std::nullptr_t)”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(271,21):
+  	“初始化”: 无法从“const ld::ConsolePro::string”转换为“std::nullptr_t”
+  		F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(271,21):
+  		没有可用于执行该转换的用户定义的转换运算符，或者无法调用该运算符
+  E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\cstddef(37,27):
+  或    “std::byte std::operator <<(const std::byte,const _IntType) noexcept”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(271,11):
+  	“std::byte std::operator <<(const std::byte,const _IntType) noexcept”: 无法推导“__formal”的 模板 参数
+  		E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\cmath(563,27):
+  		“std::enable_if_t<false,int>”: 未能使别名模板专用化
+  E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(1804,32):
+  或    “std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::basic_string_view<_Elem,_Traits>)”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(271,11):
+  	“std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::basic_string_view<_Elem,_Traits>)”: 无法从“const ld::ConsolePro::string”推导出“const std::basic_string_view<_Elem,_Traits>”的 模板 参数
+  E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(5228,32):
+  或    “std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::basic_string<_Elem,_Traits,_Alloc> &)”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(271,11):
+  	“std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::basic_string<_Elem,_Traits,_Alloc> &)”: 模板 参数“_Elem”不明确
+  		F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(271,11):
+  		可能是“char”
+  		F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(271,11):
+  		或    “wchar_t”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(271,11):
+  	“std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::basic_string<_Elem,_Traits,_Alloc> &)”: 无法从“const ld::ConsolePro::string”推导出“const std::basic_string<_Elem,_Traits,_Alloc> &”的 模板 参数
+  E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\memory(1946,32):
+  或    “std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::shared_ptr<_Ty> &)”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(271,11):
+  	“std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::shared_ptr<_Ty> &)”: 无法从“const ld::ConsolePro::string”推导出“const std::shared_ptr<_Ty> &”的 模板 参数
+  E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\memory(3598,32):
+  或    “std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::unique_ptr<_Ty2,_Dx2> &)”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(271,11):
+  	“std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::unique_ptr<_Ty2,_Dx2> &)”: 无法从“const ld::ConsolePro::string”推导出“const std::unique_ptr<_Ty2,_Dx2> &”的 模板 参数
+  E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(686,32):
+  或    “std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const char *)”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(271,21):
+  	“初始化”: 无法从“const ld::ConsolePro::string”转换为“const char *”
+  		F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(271,21):
+  		没有可用于执行该转换的用户定义的转换运算符，或者无法调用该运算符
+  E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(730,32):
+  或    “std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,char)”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(271,21):
+  	“初始化”: 无法从“const ld::ConsolePro::string”转换为“char”
+  		F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(271,21):
+  		没有可用于执行该转换的用户定义的转换运算符，或者无法调用该运算符
+  E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(766,31):
+  或    “std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const char *)”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(271,11):
+  	“std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const char *)”: 无法从“std::basic_ostream<wchar_t,std::char_traits<wchar_t>>”推导出“std::basic_ostream<char,_Traits> &”的 模板 参数
+  E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(811,31):
+  或    “std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,char)”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(271,11):
+  	“std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,char)”: 无法从“std::basic_ostream<wchar_t,std::char_traits<wchar_t>>”推导出“std::basic_ostream<char,_Traits> &”的 模板 参数
+  E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(849,32):
+  或    “std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const _Elem *)”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(271,11):
+  	“std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const _Elem *)”: 无法从“const ld::ConsolePro::string”推导出“const _Elem *”的 模板 参数
+  E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(892,32):
+  或    “std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,_Elem)”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(271,11):
+  	“std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,_Elem)”: 模板 参数“_Elem”不明确
+  		F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(271,11):
+  		可能是“ld::ConsolePro::string”
+  		F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(271,11):
+  		或    “wchar_t”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(271,11):
+  	“std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,_Elem)”: 无法从“const ld::ConsolePro::string”推导出“_Elem”的 模板 参数
+  E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(928,31):
+  或    “std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const signed char *)”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(271,11):
+  	“std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const signed char *)”: 无法从“std::basic_ostream<wchar_t,std::char_traits<wchar_t>>”推导出“std::basic_ostream<char,_Traits> &”的 模板 参数
+  E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(934,31):
+  或    “std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,signed char)”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(271,11):
+  	“std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,signed char)”: 无法从“std::basic_ostream<wchar_t,std::char_traits<wchar_t>>”推导出“std::basic_ostream<char,_Traits> &”的 模板 参数
+  E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(939,31):
+  或    “std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const unsigned char *)”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(271,11):
+  	“std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const unsigned char *)”: 无法从“std::basic_ostream<wchar_t,std::char_traits<wchar_t>>”推导出“std::basic_ostream<char,_Traits> &”的 模板 参数
+  E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(945,31):
+  或    “std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,unsigned char)”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(271,11):
+  	“std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,unsigned char)”: 无法从“std::basic_ostream<wchar_t,std::char_traits<wchar_t>>”推导出“std::basic_ostream<char,_Traits> &”的 模板 参数
+  E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(1003,9):
+  或    “_Ostr &&std::operator <<(_Ostr &&,const _Ty &)”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(271,11):
+  	“_Ostr &&std::operator <<(_Ostr &&,const _Ty &)”: 无法推导“__formal”的 模板 参数
+  		E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(1002,103):
+  		“<template-parameter>”: 无法创建指向引用的指针
+  E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(1080,32):
+  或    “std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::error_code &)”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(271,21):
+  	“初始化”: 无法从“const ld::ConsolePro::string”转换为“const std::error_code &”
+  		F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(271,21):
+  		原因如下: 无法从“const ld::ConsolePro::string”转换为“const std::error_code”
+  		F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(271,21):
+  		没有可用于执行该转换的用户定义的转换运算符，或者无法调用该运算符
+  E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\complex(2265,28):
+  或    “std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::complex<_Other> &)”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(271,11):
+  	“std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::complex<_Other> &)”: 无法从“const ld::ConsolePro::string”推导出“const std::complex<_Other> &”的 模板 参数
+  E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\bitset(518,28):
+  或    “std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::bitset<_Bits> &)”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(271,11):
+  	“std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::bitset<_Bits> &)”: 无法从“const ld::ConsolePro::string”推导出“const std::bitset<_Bits> &”的 模板 参数
+  E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\valarray(788,26):
+  或    “std::valarray<_Ty> std::operator <<(const std::valarray<_Ty> &,const valarray<_Ty>::value_type &)”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(271,11):
+  	“std::valarray<_Ty> std::operator <<(const std::valarray<_Ty> &,const valarray<_Ty>::value_type &)”: 无法从“std::basic_ostream<wchar_t,std::char_traits<wchar_t>>”推导出“const std::valarray<_Ty> &”的 模板 参数
+  E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\valarray(798,26):
+  或    “std::valarray<_Ty> std::operator <<(const valarray<_Ty>::value_type &,const std::valarray<_Ty> &)”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(271,11):
+  	“std::valarray<_Ty> std::operator <<(const valarray<_Ty>::value_type &,const std::valarray<_Ty> &)”: 无法从“const ld::ConsolePro::string”推导出“const std::valarray<_Ty> &”的 模板 参数
+  E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\valarray(972,26):
+  或    “std::valarray<_Ty> std::operator <<(const std::valarray<_Ty> &,const std::valarray<_Ty> &)”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(271,11):
+  	“std::valarray<_Ty> std::operator <<(const std::valarray<_Ty> &,const std::valarray<_Ty> &)”: 无法从“std::basic_ostream<wchar_t,std::char_traits<wchar_t>>”推导出“const std::valarray<_Ty> &”的 模板 参数
+  E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\thread(243,37):
+  或    “std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,std::thread::id)”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(271,21):
+  	“初始化”: 无法从“const ld::ConsolePro::string”转换为“std::thread::id”
+  		F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(271,21):
+  		没有可用于执行该转换的用户定义的转换运算符，或者无法调用该运算符
+  E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\regex(981,32):
+  或    “std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::sub_match<_BidIt> &)”
+  	F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(271,11):
+  	“std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::sub_match<_BidIt> &)”: 无法从“const ld::ConsolePro::string”推导出“const std::sub_match<_BidIt> &”的 模板 参数
+  F:\source\2024\MusicPlayer\MusicPlayer\musicPlayer.cpp(271,11):
+  尝试匹配参数列表“(std::basic_ostream<wchar_t,std::char_traits<wchar_t>>, const ld::ConsolePro::string)”时
+  
+  正在生成代码...
