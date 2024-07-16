@@ -1,0 +1,248 @@
+<warning>文件 music.mn 打开失败<!warning>
+<warning>程序将新建文件 music.mn，并进行音乐搜索<!warning>
+<message>文件 music.mn 创建成功<!message>
+<message>音乐搜索路径为：<!message>
+<message>D:/qqmusicSong<!message>
+<message>音乐搜索中...<!message>
+<warning>D:/qqmusicSong (目前正在搜索)...<!warning>
+<message>找到了: 3R2 _ DJ Mashiro - Sweetness Overload!!!.mp3<!message>
+<message>找到了: ak+q - Shades of Light in a Transcendent Realm.mp3<!message>
+<message>找到了: Alesso _ DubVision - One Last Time.mp3<!message>
+<message>找到了: AniFace - Where?are?you.mp3<!message>
+<message>找到了: ARForest - The Last Page.mp3<!message>
+<message>找到了: AvEtaDeltaV - 破曉.mp3<!message>
+<message>找到了: AvEtaDeltaV - 覺醒.mp3<!message>
+<message>找到了: AvEtaDeltaV _ CrooMin - After?War?-?[Wasteland].mp3<!message>
+<message>找到了: BlackY - Kaguya.mp3<!message>
+<message>找到了: Brooks _ GRX - Boomerang.mp3<!message>
+<message>找到了: Cam Kelley - Sketch Plane (Inst_).mp3<!message>
+<message>找到了: Ciela - 過ぎ去りし夏 (逝去的夏天).mp3<!message>
+<message>找到了: Cre-sc3NT - Ancient?Fire【Imaginary?Hope】.mp3<!message>
+<message>找到了: Cre-sc3NT - Relentless【WhiteRose】 (RWBY?doujin?remix).mp3<!message>
+<message>找到了: Cyan Lpegd _ 千坂 - When I saw you Ifell in love.mp3<!message>
+<message>找到了: Daily天利 - Sigma  ~ 105秒の伝説 ~ (Haocore Mix).mp3<!message>
+<message>找到了: Daily天利 - 蝎虎天体 -Lacertid-.mp3<!message>
+<message>找到了: Delos - Crimson?Tide原曲：PneumaticTokyo (Remix).mp3<!message>
+<message>找到了: Dion Timmer - Beneath The Waves.mp3<!message>
+<message>找到了: DJ Myosuke - Black Territory (Extended Mix).mp3<!message>
+<message>找到了: DJ Myosuke - Sickest City.mp3<!message>
+<message>找到了: DJ Soviet - 上升☆气流.mp3<!message>
+<message>找到了: DJ Titon - 死机之歌.mp3<!message>
+<message>找到了: D_J_Nero - Joker.mp3<!message>
+<message>找到了: EBIMAYO - GOODRAGE (Long_ver).mp3<!message>
+<message>找到了: eicateve - R_I_P_.mp3<!message>
+<message>找到了: Fatal Force _ Crusher P _ Deejay Tawharu - Wildfire.mp3<!message>
+<message>找到了: Feint - Epiphany.mp3<!message>
+<message>找到了: FELT - Let it all out of you.mp3<!message>
+<message>找到了: Feryquitous - Arcahv.mp3<!message>
+<message>找到了: Feryquitous - Quon-Extend-.mp3<!message>
+<message>找到了: Fl00t - Eltaw.mp3<!message>
+<message>找到了: GRAM - Niebelungen.mp3<!message>
+<message>找到了: GRAM _ かめりあ (camellia) - Ragnarok.mp3<!message>
+<message>找到了: Grand Thaw - ?ventyr (Long Ver_).mp3<!message>
+<message>找到了: Halv - Khronostasis Katharsis.mp3<!message>
+<message>找到了: Halv_ - Concvssion.mp3<!message>
+<message>找到了: hanser - 室内系的TrackMaker.mp3<!message>
+<message>找到了: Hinkik - Time Leaper.mp3<!message>
+<message>找到了: HyuN - Infinity Heaven.mp3<!message>
+<message>找到了: HyuN _ KLYDIX _ Lee Yu Jin - Time To Night Sky.mp3<!message>
+<message>找到了: HyuN _ LyuU - CROSS?OVER.mp3<!message>
+<message>找到了: HyuN _ Yuri - Disorder.mp3<!message>
+<message>找到了: HyuN _ 月下Lia - CROSS?RAY.mp3<!message>
+<message>找到了: I Prevail - Rise.mp3<!message>
+<message>找到了: Jerry Barnes _ Quiana - Moon Without The Stars.mp3<!message>
+<message>找到了: Jioyi - Cyanine.mp3<!message>
+<message>找到了: JurokuNeta_ - Adjudicatorz-断罪-.mp3<!message>
+<message>找到了: kamome sano (沙野カモメ) - init().mp3<!message>
+<message>找到了: Kankitsu - Chronomia.mp3<!message>
+<message>找到了: kanoryo - Ark (Long_ver).mp3<!message>
+<message>找到了: Kevin Penkin _ 本田みちよ - I Race The Dawn.mp3<!message>
+<message>找到了: Kevin91x - Change Will Come.mp3<!message>
+<message>找到了: Kevin91x - Turn It Up.mp3<!message>
+<message>找到了: KIRA _ GUMI (グミ) - MACHINE GUN.mp3<!message>
+<message>找到了: KIVΛ - Cytus II Opening - The Whole Rest.mp3<!message>
+<message>找到了: KIVΛ - Welcome to Cytus II Live Set.mp3<!message>
+<message>找到了: Knife Party _ Tom Morello - Battle Sirens (RIOT Remix).mp3<!message>
+<message>找到了: Kobaryo - Blackbird.mp3<!message>
+<message>找到了: Kobaryo - Bookmaker.mp3<!message>
+<message>找到了: Kobaryo - Speed Complexxx.mp3<!message>
+<message>找到了: Kobaryo - Villain Virus.mp3<!message>
+<message>找到了: Kobaryo _ GRAM - Yggdrasil.mp3<!message>
+<message>找到了: Kobayashi - 光.mp3<!message>
+<message>找到了: Kozato Snow - 桜樹街道.mp3<!message>
+<message>找到了: Laur - Party People.mp3<!message>
+<message>找到了: Laur - Viyella's Tears.mp3<!message>
+<message>找到了: Laur - [Arcaea] Vindication.mp3<!message>
+<message>找到了: LeaF - Alice in misanthrope -厭世アリス-.mp3<!message>
+<message>找到了: Leaf - Armageddon.mp3<!message>
+<message>找到了: Leaf - Lyrith -迷宮リリス-.mp3<!message>
+<message>找到了: LeaF - MARENOL.mp3<!message>
+<message>找到了: LeaF - 彁.mp3<!message>
+<message>找到了: Lindsey Stirling - Ice Storm.mp3<!message>
+<message>找到了: linear ring - enchanted love (BOFXVI 2020).mp3<!message>
+<message>找到了: Link to you_ (SHIKI) - Lapis.mp3<!message>
+<message>找到了: lixound - extinguisher.mp3<!message>
+<message>找到了: Low Pass - Land Scape (Cytus Version).mp3<!message>
+<message>找到了: LuzeriA - Better Graphic Animation -game size-.mp3<!message>
+<message>找到了: majiko (まじ娘) - エミリーと15の約束 (和艾米莉的15个约定).mp3<!message>
+<message>找到了: majiko (まじ娘) - グラマー.mp3<!message>
+<message>找到了: majiko (まじ娘) - 春、恋桜。.mp3<!message>
+<message>找到了: majiko (まじ娘) - 神様でもあるまいし.mp3<!message>
+<message>找到了: Maozon - stasis.mp3<!message>
+<message>找到了: Mili (ミリー) - world_execute(me);.mp3<!message>
+<message>找到了: Mr_A - 危 机 合 约.mp3<!message>
+<message>找到了: MYUKKE_ - NO ONE YES MAN.mp3<!message>
+<message>找到了: N2V _ 千坂 - You.mp3<!message>
+<message>找到了: Nako - ダーリンダンス（Darling Dance）.mp3<!message>
+<message>找到了: NICODE - NCDRayarkCon2018_mixset.mp3<!message>
+<message>找到了: Niha - Still Alive (存活).mp3<!message>
+<message>找到了: Nikki Simmons _ 削除 (Sakuzyo) - Destr0yer [Afterwar].mp3<!message>
+<message>找到了: NiZi RiNGO - nightfall (full ver).mp3<!message>
+<message>找到了: onoken (AXSword) - Alexandrite.mp3<!message>
+<message>找到了: onoken (AXSword) - Cristalisia.mp3<!message>
+<message>找到了: Or3o _ Rachie _ CHI-CHI (??) _ Kathy-chan - Doki Doki Forever.mp3<!message>
+<message>找到了: Phillumenist、姜米條 - 光 (Phillumenist Remix).mp3<!message>
+<message>找到了: Plum - Terrasphere.mp3<!message>
+<message>找到了: Pumking南瓜瓜 - jojo黄金曲 X sans审判曲.mp3<!message>
+<message>找到了: Qualial - Grimheart.mp3<!message>
+<message>找到了: Quree - Starduster.mp3<!message>
+<message>找到了: REDALiCE _ USAO - 最強STRONGER.mp3<!message>
+<message>找到了: RichaadEB - Nuclear Fusion.mp3<!message>
+<message>找到了: Rider - 尊師 ～The Guru～.mp3<!message>
+<message>找到了: Rigel Theatre (ライジェル?シアター) - ?vril -Flicka i krans -.mp3<!message>
+<message>找到了: Rinana - 偏食.mp3<!message>
+<message>找到了: Roselia - 六兆年と一夜物語(1).mp3<!message>
+<message>找到了: Roselia - 六兆年と一夜物語.mp3<!message>
+<message>找到了: S9ryne - After Dawn (Full Ver_).mp3<!message>
+<message>找到了: sasakure_UK (ササクレ?ユーケイ) - 海神寓拝.mp3<!message>
+<message>找到了: Se-U-Ra - Igallta.mp3<!message>
+<message>找到了: Se-U-Ra - 望影の方舟Six.mp3<!message>
+<message>找到了: SIHanatsuka - Luolimasi.mp3<!message>
+<message>找到了: SLT - Latitude.mp3<!message>
+<message>找到了: Sou - tig-hug.mp3<!message>
+<message>找到了: Sou - シンソウ.mp3<!message>
+<message>找到了: Sou - ダンスロボットダンス.mp3<!message>
+<message>找到了: Sou - ノイド.mp3<!message>
+<message>找到了: Sou - ハレハレヤ (朗朗晴天).mp3<!message>
+<message>找到了: Sou - ミスターフィクサー (Mr_ Fixer).mp3<!message>
+<message>找到了: Sou - 命に嫌われている。 (被生命所厌弃).mp3<!message>
+<message>找到了: Sou - 愚者のパレード (愚者的游行).mp3<!message>
+<message>找到了: Sou - 波に名前をつけること、僕らの呼吸に終わりがあること。.mp3<!message>
+<message>找到了: Sou - 病名は愛だった (病名为爱).mp3<!message>
+<message>找到了: Sou - 病名は愛だった［病名为爱］.mp3<!message>
+<message>找到了: Sou - 追想サマーレイン (追忆夏天之雨).mp3<!message>
+<message>找到了: Sou _ Eve - おどりゃんせ (来起舞吧).mp3<!message>
+<message>找到了: Sou _ nameless - 独りんぼエンヴィー (孑然妒火).mp3<!message>
+<message>找到了: Sou _ くろくも (黒雲) - 廃都アトリエスタにて (在废都亚托列斯塔).mp3<!message>
+<message>找到了: Sou _ ウォルピスカーター (Wolpis Kater) - キドアイラク.mp3<!message>
+<message>找到了: Sou _ レタスP - エレクトロサチュレイタ (电子饱和器).mp3<!message>
+<message>找到了: Sound Souler - Reinvent.mp3<!message>
+<message>找到了: Soundtrack - The Earth.mp3<!message>
+<message>找到了: Starset - Unbecoming.mp3<!message>
+<message>找到了: Street - Sakura Fubuki (Arrange ver).mp3<!message>
+<message>找到了: SunsetRay - Glaciaxion.mp3<!message>
+<message>找到了: t+pazolite - Rayarkcon 2018 mixset -t+pazolite side-.mp3<!message>
+<message>找到了: Team Grimoire - Dantalion.mp3<!message>
+<message>找到了: Team Grimoire - Eligos.mp3<!message>
+<message>找到了: Team Grimoire - ouroVoros.mp3<!message>
+<message>找到了: Team Grimoire - Rrhar'il.mp3<!message>
+<message>找到了: Team Grimoire _ Laur - Grievous Lady.mp3<!message>
+<message>找到了: TeddyLoid (榊原テディ) _ DELTA - Defection.mp3<!message>
+<message>找到了: The Score - Unstoppable.mp3<!message>
+<message>找到了: Tule - Lost.mp3<!message>
+<message>找到了: U-ske _ 棗いつき - いざ、参ります (Here Wo Go!).mp3<!message>
+<message>找到了: Various Artists - Initialize.mp3<!message>
+<message>找到了: VeetaCrush - Sterelogue.mp3<!message>
+<message>找到了: void (Mournfinale) _ 星熊南巫 - Testify.mp3<!message>
+<message>找到了: Void (ぼいど) - Dedication (奉献).mp3<!message>
+<message>找到了: Vuxa - Starmap.mp3<!message>
+<message>找到了: V_K克 - Evolution Era.mp3<!message>
+<message>找到了: WyvernP - Snow Desert (Phigros).mp3<!message>
+<message>找到了: Zeraphym - Please Come Back.mp3<!message>
+<message>找到了: Zris - Kerberos.mp3<!message>
+<message>找到了: Z?ClaxX _ SumaiLight - Apocalyptic (Inst_).mp3<!message>
+<message>找到了: ?sir - CHAOS.mp3<!message>
+<message>找到了: いすぼくろ _ Sou - 脳漿炸裂ガール (脑浆炸裂女孩).mp3<!message>
+<message>找到了: かめりあ (camellia) - Hello (BPM) 2021.mp3<!message>
+<message>找到了: かめりあ (camellia) - MEGALOVANIA (Remix).mp3<!message>
+<message>找到了: たかやん (Takayan) - 玩具.mp3<!message>
+<message>找到了: ばんばんしー - 秋姉妹のなく頃に in the autumn sky (秋姐妹鸣泣之时 秋日天空下).mp3<!message>
+<message>找到了: まふまふ (mafumafu) - LOSER (Arrange ver_).mp3<!message>
+<message>找到了: まふまふ (mafumafu) - 命に嫌われている。 (被生命所厌恶).mp3<!message>
+<message>找到了: まふまふ (mafumafu) - 怪物.mp3<!message>
+<message>找到了: アリスシャッハと魔法の楽団 - Apocalypse.mp3<!message>
+<message>找到了: ツユ (TUYU) - くらべられっ子 (被比较的孩子).mp3<!message>
+<message>找到了: ツユ (TUYU) - アサガオの散る頃に (牵牛花凋零之时).mp3<!message>
+<message>找到了: ツユ (TUYU) - 強欲.mp3<!message>
+<message>找到了: ナナヲアカリ (Nanawoakari) _ Sou - チューリングラブ (Turing Love) (TV Size Version).mp3<!message>
+<message>找到了: 上海爱莉丝幻乐团 (上海アリス幻樂団) - 霊知の太陽信仰 ～ Nuclear Fusion (灵知的太阳信仰 ～ Nuclear Fusion).mp3<!message>
+<message>找到了: 井上麻里奈 (いのうえ まりな) _ 藏合纱惠子 (ぞうごう さえこ) - Q&A (Full Size_Bonus Track).mp3<!message>
+<message>找到了: 八王子P (8#Prince) _ 巡音流歌 (巡音ルカ) - Beautiful Nightmare.mp3<!message>
+<message>找到了: 削除 (Sakuzyo) - AngelFalse.mp3<!message>
+<message>找到了: 削除 (Sakuzyo) - Crystar.mp3<!message>
+<message>找到了: 削除 (Sakuzyo) - Lost Memory.mp3<!message>
+<message>找到了: 削除 (Sakuzyo) - PANDORA PARADOXXX.mp3<!message>
+<message>找到了: 削除 (Sakuzyo) - 天火明命.mp3<!message>
+<message>找到了: 千坂 - Away From.mp3<!message>
+<message>找到了: 千坂 - Chasing Lights.mp3<!message>
+<message>找到了: 千坂 - Flames.mp3<!message>
+<message>找到了: 千坂 - Fragments.mp3<!message>
+<message>找到了: 千坂 - Glow.mp3<!message>
+<message>找到了: 千坂 - Settle.mp3<!message>
+<message>找到了: 南有乔木 - 花之绪.mp3<!message>
+<message>找到了: 可不 (KAFU) - 可不ちゃんのカレーうどん狂騒曲 (Single Version).mp3<!message>
+<message>找到了: 哆啦 - 星河不可及 (钢琴版).mp3<!message>
+<message>找到了: 坂部剛 (さかべ ごう) - Date a Live (约会大作战) (Orchestra Version).mp3<!message>
+<message>找到了: 坂部剛 (さかべ ごう) - Dream ~ Quiet Day ~ Morning.mp3<!message>
+<message>找到了: 坂部剛 (さかべ ごう) - Ground Zero.mp3<!message>
+<message>找到了: 塞壬唱片-MSR _ BaoUner - 0_00_01.mp3<!message>
+<message>找到了: 天神子兎音 (Kotone) - かごめ (笼中鸟).mp3<!message>
+<message>找到了: 屿祁 - 卢本伟电音节.mp3<!message>
+<message>找到了: 巡音流歌 (巡音ルカ) - Sayonara Hatsukoi.mp3<!message>
+<message>找到了: 排骨教主 - 清明上河图.mp3<!message>
+<message>找到了: 接个吻，开一枪 - Beijing.mp3<!message>
+<message>找到了: 暴躁少年x - オノマトペ feat_りりあ。.mp3<!message>
+<message>找到了: 木製みゅーと - 七つ一旋桜.mp3<!message>
+<message>找到了: 李化禹 - 996.mp3<!message>
+<message>找到了: 泠鸢yousa - 醉.mp3<!message>
+<message>找到了: 無力P (いがらし さとし) - Lost Desire.mp3<!message>
+<message>找到了: 無力P (いがらし さとし) _ 柿チョコ (柿子巧克力) - Aspirin (阿司匹林).mp3<!message>
+<message>找到了: 無力P (いがらし さとし) _ 柿チョコ (柿子巧克力) - Vanity.mp3<!message>
+<message>找到了: 狐の工作室 - 紅楼 (原曲_紅楼 ~ Eastern Dream___).mp3<!message>
+<message>找到了: 电鸟个灯泡 - pianolesson.mp3<!message>
+<message>找到了: 电鸟个灯泡 - 君以外害.mp3<!message>
+<message>找到了: 电鸟个灯泡 - 嗤笑着的人体模型.mp3<!message>
+<message>找到了: 电鸟个灯泡 _ Rinana (リナナ) - 【电鸟×里奈】タイムイーター_噬时者.mp3<!message>
+<message>找到了: 符白牙 - 云女孩.mp3<!message>
+<message>找到了: 米缐p_ - Medicine of Sing.mp3<!message>
+<message>找到了: 米缐p_ - 无人区-Vacuum Track#ADD8E6-.mp3<!message>
+<message>找到了: 米缐p_ - 米缐p_ - 現世の刹那.mp3<!message>
+<message>找到了: 纯音乐 - 1-X冰与火之舞.mp3<!message>
+<message>找到了: 纯音乐 - 光谱逸散.mp3<!message>
+<message>找到了: 纯音乐 - 钢琴块之歌.mp3<!message>
+<message>找到了: 网络歌手 - 穷开挂.mp3<!message>
+<message>找到了: 舞花 (maika) - New World.mp3<!message>
+<message>找到了: 足首 - デキナイ詐欺.mp3<!message>
+<message>找到了: 足首 - 白鶴ノ刃.mp3<!message>
+<message>找到了: 闫东炜 - 开心病.mp3<!message>
+<message>找到了: 隂陽殛楽 - PuppyMmmm-cyTus Title Mix (隂陽殛楽 remix).mp3<!message>
+<message>找到了: 雲翼星辰 - 黑暗森林.mp3<!message>
+<message>找到了: 鹿乃 (かの) - KING.mp3<!message>
+<message>找到了: 黒皇帝 - Chronostasis(1).mp3<!message>
+<message>找到了: 黒皇帝 - Chronostasis.mp3<!message>
+<message>找到了: 黒皇帝 - Galaxy Collapse.mp3<!message>
+<message>找到了: 黒皇帝 - Scattered Faith.mp3<!message>
+<message>找到了: Ado - うっせぇわ (吵死了).ogg<!message>
+<message>找到了: Ado - 踊.ogg<!message>
+<message>找到了: Panda Eyes - Euphoria.ogg<!message>
+<message>找到了: Reku Mochizuki - Stars Fall in Evernight City.ogg<!message>
+<message>找到了: USAO - Knight Rider.ogg<!message>
+<message>找到了: 月代彩 - 战舰少女R-活动战役（决战九段坂）.ogg<!message>
+<warning>D:/qqmusicSong\VipSongsDownload (目前正在搜索)...<!warning>
+<message>音乐搜索完毕<!message>
+<message>文件 music.mn 写入完毕<!message>
+<warning>background image not find<!warning>
+<message>音乐 Daily天利 - 蝎虎天体 -Lacertid- 打开成功<!message>
+<message>音乐 Daily天利 - 蝎虎天体 -Lacertid- 播放<!message>
+<message>音乐 Daily天利 - 蝎虎天体 -Lacertid- 暂停<!message>
+<message>音乐 Daily天利 - 蝎虎天体 -Lacertid- 已关闭<!message>

@@ -18,7 +18,7 @@ bool MusicData::openMusic(size_t num)
 {
 	if (musicPathName.empty() || num > musicPathName.size() - 1)
 	{
-		ld::ConsolePro().LogError(L"参数不符合要求，请重试！");
+		console.LogError("参数不符合要求，请重试！");
 
 		status = 0;
 		return false;
@@ -29,7 +29,7 @@ bool MusicData::openMusic(size_t num)
 
 	if (musicMci.open(musicPathName.at(num).c_str()))
 	{
-		ld::ConsolePro().LogMessage(std::wstring(L"音乐 ") + (nowMusicName) + L" 打开成功");
+		console.LogMessage(std::string("音乐 ") + to_string(nowMusicName) + " 打开成功");
 
 		playMusic();
 		musicMci.setVolume(volume);
@@ -37,7 +37,7 @@ bool MusicData::openMusic(size_t num)
 	}
 	else
 	{
-		ld::ConsolePro().LogError(std::wstring(L"音乐 ") + (nowMusicName) + L" 打开失败");
+		console.LogError(std::string("音乐 ") + to_string(nowMusicName) + " 打开失败");
 		return false;
 	}
 }
@@ -47,14 +47,29 @@ void MusicData::playMusic()
 {
 	if (musicMci.play())
 	{
-		ld::ConsolePro().LogMessage(std::wstring(L"音乐 ") + (nowMusicName) + L" 播放");
+		console.LogMessage(std::string("音乐 ") + to_string(nowMusicName) + " 播放");
 		status = 1;
 	}
 	else
 	{
-		ld::ConsolePro().LogError(std::wstring(L"音乐 ") + (nowMusicName) + L" 播放失败");
+		console.LogError(std::string("音乐 ") + to_string(nowMusicName) + " 播放失败");
 
 		status = 0;
+	}
+	if (std::cout.fail())
+	{
+		std::cout.setstate(std::ios::goodbit);
+		std::cout.rdbuf();
+	}
+	if (std::wcout.fail())
+	{
+		std::wcout.setstate(std::ios::goodbit);
+		std::wcout.rdbuf();
+	}
+	if (ld::clog->fail())
+	{
+		ld::clog->setstate(std::ios::goodbit);
+		ld::clog->rdbuf();
 	}
 }
 
@@ -65,12 +80,12 @@ void MusicData::pauseMusic()
 	{
 		if (musicMci.pause())
 		{
-			ld::ConsolePro().LogMessage(std::wstring(L"音乐 ") + (nowMusicName) + L" 暂停");
+			console.LogMessage(std::string("音乐 ") + to_string(nowMusicName) + " 暂停");
 			status = 2;
 		}
 		else
 		{
-			ld::ConsolePro().LogError(std::wstring(L"音乐 ") + (nowMusicName) + L" 暂停失败");
+			console.LogError(std::string("音乐 ") + to_string(nowMusicName) + " 暂停失败");
 		}
 	}
 }
@@ -80,12 +95,12 @@ void MusicData::stopMusic()
 {
 	if (musicMci.stop())
 	{
-		ld::ConsolePro().LogMessage(std::wstring(L"音乐 ") + (nowMusicName) + L" 停止");
+		console.LogMessage(std::string("音乐 ") + to_string(nowMusicName) + " 停止");
 		status = 0;
 	}
 	else
 	{
-		ld::ConsolePro().LogError(std::wstring(L"音乐 ") + (nowMusicName) + L" 停止失败");
+		console.LogError(std::string("音乐 ") + to_string(nowMusicName) + " 停止失败");
 	}
 }
 
@@ -94,12 +109,12 @@ void MusicData::closeMusic()
 {
 	if (musicMci.close())
 	{
-		ld::ConsolePro().LogMessage(std::wstring(L"音乐 ") + (nowMusicName) + L" 已关闭");
+		console.LogMessage(std::string("音乐 ") + to_string(nowMusicName) + " 已关闭");
 		status = 0;
 	}
 	else
 	{
-		ld::ConsolePro().LogError(std::wstring(L"音乐 ") + (nowMusicName) + L" 关闭失败");
+		console.LogError(std::string("音乐 ") + to_string(nowMusicName) + " 关闭失败");
 	}
 }
 
@@ -113,7 +128,7 @@ void MusicData::setMusicVolume(size_t vol)
 			volume = vol;
 		else
 		{
-			ld::ConsolePro().LogError(L"音量设置失败");
+			console.LogError("音量设置失败");
 		}
 	}
 	else
@@ -134,7 +149,7 @@ bool MusicData::setMusicStartTime(size_t start_time)
 		}
 		else
 		{
-			ld::ConsolePro().LogError(L"设置播放位置失败");
+			console.LogError("设置播放位置失败");
 			return false;
 		}
 	}
@@ -150,7 +165,7 @@ int MusicData::getMusicCurrentTime()
 		DWORD playTime = 0;
 		if (!musicMci.getCurrentTime(playTime))
 		{
-			ld::ConsolePro().LogError(L"获取播放时长失败");
+			console.LogError("获取播放时长失败");
 
 			return 0;
 		}
@@ -168,7 +183,7 @@ int MusicData::getMusicTotalTime()
 		DWORD totalTime = 0;
 		if (!musicMci.getTotalTime(totalTime))
 		{
-			ld::ConsolePro().LogError(L"获取总时长失败");
+			console.LogError("获取总时长失败");
 
 			return 0;
 		}
@@ -224,8 +239,8 @@ void MusicData::getFilePath()
 	auto err = _wfopen_s(&fp, L"filePath.ini", L"r");
 	if (err != 0)
 	{
-		ld::ConsolePro().LogWarning(L"文件 filePath.ini 打开失败");
-		ld::ConsolePro().LogWarning(L"程序将新建文件 filePath.ini");
+		console.LogWarning("文件 filePath.ini 打开失败");
+		console.LogWarning("程序将新建文件 filePath.ini");
 
 		err = _wfopen_s(&fp, L"filePath.ini", L"w, ccs=UTF-16LE");
 		if (err == 0)
@@ -249,7 +264,22 @@ void MusicData::getFilePath()
 // 获取特定格式的文件名    
 void MusicData::findMusicName(const wstring& path)
 {
-	ld::ConsolePro().LogWarning(path + L" (目前正在搜索)...");
+	if (std::cout.fail())
+	{
+		std::cout.setstate(std::ios::goodbit);
+		std::cout.rdbuf();
+	}
+	if (std::wcout.fail())
+	{
+		std::wcout.setstate(std::ios::goodbit);
+		std::wcout.rdbuf();
+	}
+	if (ld::clog->fail())
+	{
+		ld::clog->setstate(std::ios::goodbit);
+		ld::clog->rdbuf();
+	}
+	console.LogWarning(path + L" (目前正在搜索)...");
 	WIN32_FIND_DATA fileinfo;														// 文件信息
 	HANDLE hFind;
 	for (auto& musicFormat : musicFormats)
@@ -259,8 +289,23 @@ void MusicData::findMusicName(const wstring& path)
 		{
 			do
 			{
+				if (std::cout.fail())
+				{
+					std::cout.setstate(std::ios::goodbit);
+					std::cout.rdbuf();
+				}
+				if (std::wcout.fail())
+				{
+					std::wcout.setstate(std::ios::goodbit);
+					std::wcout.rdbuf();
+				}
+				if (ld::clog->fail())
+				{
+					ld::clog->setstate(std::ios::goodbit);
+					ld::clog->rdbuf();
+				}
 				wstring str = fileinfo.cFileName;
-				ld::ConsolePro().LogMessage(std::wstring(L"找到了: ") + str);
+				console.LogMessage(std::wstring(L"找到了: ") + str);
 				musicPathName.push_back(path + L"\\" + str);							// 写入音乐全路径名
 				musicName.push_back(str.substr(0, str.size() - musicFormat.size() - 1));// 写入音乐名
 			} while (FindNextFile(hFind, &fileinfo));
@@ -316,11 +361,11 @@ void MusicData::wFileMusic(FILE* fp)
 			fputws(L"\n", fp);
 			fputws(musicPathName.at(i).c_str(), fp);
 		}
-		ld::ConsolePro().LogMessage(L"文件 music.mn 写入完毕");
+		console.LogMessage("文件 music.mn 写入完毕");
 	}
 	else
 	{
-		ld::ConsolePro().LogWarning(L"musicPathName 为空");
+		console.LogWarning("musicPathName 为空");
 	}
 }
 
@@ -348,12 +393,28 @@ void MusicData::rFileMusic(FILE* fp)
 		}
 		musicPathName.push_back(s);												// 写入音乐全路径名
 		const auto pos = s.rfind(L"\\");
+		std::wcout << ld::ConsoleColor::Green << s << L"->读取" << std::endl;
+		if (std::cout.fail())
+		{
+			std::cout.setstate(std::ios::goodbit);
+			std::cout.rdbuf();
+		}
+		if (std::wcout.fail())
+		{
+			std::wcout.setstate(std::ios::goodbit);
+			std::wcout.rdbuf();
+		}
+		if (ld::clog->fail())
+		{
+			ld::clog->setstate(std::ios::goodbit);
+			ld::clog->rdbuf();
+		}
 		musicName.push_back(s);													// 写入音乐名
 	}
-	ld::ConsolePro().LogMessage(L"文件 musci.mn 读取完毕");
+	console.LogMessage("文件 musci.mn 读取完毕");
 	if (musicPathName.empty())
 	{
-		ld::ConsolePro().LogWarning(L"musicPathName 为空");
+		console.LogWarning("musicPathName 为空");
 	}
 }
 
@@ -381,23 +442,23 @@ MusicData::MusicData()
 	}
 	else
 	{
-		ld::ConsolePro().LogWarning (L"文件 music.mn 打开失败");
-		ld::ConsolePro().LogWarning(L"程序将新建文件 music.mn，并进行音乐搜索");
+		console.LogWarning ("文件 music.mn 打开失败");
+		console.LogWarning("程序将新建文件 music.mn，并进行音乐搜索");
 
 		err = _wfopen_s(&fp, L"music.mn", L"w, ccs=UTF-16LE");			// 创建以 UTF-16LE 编码的文件
 		if (err == 0)													// 打开成功，创建成功
 		{
-			ld::ConsolePro().LogMessage(L"文件 music.mn 创建成功");
+			console.LogMessage("文件 music.mn 创建成功");
 
 			getFilePath();												// 获取音乐的搜索路径
 
-			ld::ConsolePro().LogMessage(L"音乐搜索路径为：");
-			ld::ConsolePro().LogMessage(to_string(filePath));
-			ld::ConsolePro().LogMessage(L"音乐搜索中...");
+			console.LogMessage("音乐搜索路径为：");
+			console.LogMessage(to_string(filePath));
+			console.LogMessage("音乐搜索中...");
 
 			findMusicName(filePath);
 
-			ld::ConsolePro().LogMessage(L"音乐搜索完毕");
+			console.LogMessage("音乐搜索完毕");
 
 			wFileMusic(fp);												// 写入
 			fclose(fp);													// 关闭它

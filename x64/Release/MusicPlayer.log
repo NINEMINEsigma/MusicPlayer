@@ -1,14 +1,14 @@
 ﻿  LF_Exception.cpp
-F:\source\2024\LightDiagram\LightDiagram\Core\Header\LF_Config.h(1523,75): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+F:\source\2024\LightDiagram\LightDiagram\Core\Header\LF_Config.h(1529,75): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
   (编译源文件“../../LightDiagram/LightDiagram/Core/LF_Exception.cpp”)
   
-F:\source\2024\LightDiagram\LightDiagram\Core\Header\LF_Config.h(1526,58): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+F:\source\2024\LightDiagram\LightDiagram\Core\Header\LF_Config.h(1532,58): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
   (编译源文件“../../LightDiagram/LightDiagram/Core/LF_Exception.cpp”)
   
-F:\source\2024\LightDiagram\LightDiagram\Core\LF_Exception.cpp(225,21): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
-F:\source\2024\LightDiagram\LightDiagram\Core\LF_Exception.cpp(230,14): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
-F:\source\2024\LightDiagram\LightDiagram\Core\LF_Exception.cpp(241,21): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
-F:\source\2024\LightDiagram\LightDiagram\Core\LF_Exception.cpp(246,14): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+F:\source\2024\LightDiagram\LightDiagram\Core\LF_Exception.cpp(234,21): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+F:\source\2024\LightDiagram\LightDiagram\Core\LF_Exception.cpp(239,14): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+F:\source\2024\LightDiagram\LightDiagram\Core\LF_Exception.cpp(250,21): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+F:\source\2024\LightDiagram\LightDiagram\Core\LF_Exception.cpp(255,14): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
   GuiMusicPlayer.cpp
 F:\source\2024\MusicPlayer\MusicPlayer\GuiMusicPlayer.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
   (编译源文件“GuiMusicPlayer.cpp”)
@@ -19,10 +19,10 @@ F:\source\2024\MusicPlayer\MusicPlayer\MusicData.h(1,1): warning C4819: 该文�
 F:\source\2024\MusicPlayer\MusicPlayer\MusicMCI.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
   (编译源文件“GuiMusicPlayer.cpp”)
   
-F:\source\2024\LightDiagram\LightDiagram\Core\Header\LF_Config.h(1523,75): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+F:\source\2024\LightDiagram\LightDiagram\Core\Header\LF_Config.h(1529,75): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
   (编译源文件“GuiMusicPlayer.cpp”)
   
-F:\source\2024\LightDiagram\LightDiagram\Core\Header\LF_Config.h(1526,58): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+F:\source\2024\LightDiagram\LightDiagram\Core\Header\LF_Config.h(1532,58): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
   (编译源文件“GuiMusicPlayer.cpp”)
   
   main.cpp
@@ -35,10 +35,10 @@ F:\source\2024\MusicPlayer\MusicPlayer\MusicData.h(1,1): warning C4819: 该文�
 F:\source\2024\MusicPlayer\MusicPlayer\MusicMCI.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
   (编译源文件“main.cpp”)
   
-F:\source\2024\LightDiagram\LightDiagram\Core\Header\LF_Config.h(1523,75): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+F:\source\2024\LightDiagram\LightDiagram\Core\Header\LF_Config.h(1529,75): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
   (编译源文件“main.cpp”)
   
-F:\source\2024\LightDiagram\LightDiagram\Core\Header\LF_Config.h(1526,58): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+F:\source\2024\LightDiagram\LightDiagram\Core\Header\LF_Config.h(1532,58): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
   (编译源文件“main.cpp”)
   
   MusicData.cpp
@@ -48,32 +48,44 @@ F:\source\2024\MusicPlayer\MusicPlayer\MusicData.h(1,1): warning C4819: 该文�
 F:\source\2024\MusicPlayer\MusicPlayer\MusicMCI.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
   (编译源文件“MusicData.cpp”)
   
-F:\source\2024\LightDiagram\LightDiagram\Core\Header\LF_Config.h(1523,75): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+F:\source\2024\LightDiagram\LightDiagram\Core\Header\LF_Config.h(1529,75): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
   (编译源文件“MusicData.cpp”)
   
-F:\source\2024\LightDiagram\LightDiagram\Core\Header\LF_Config.h(1526,58): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+F:\source\2024\LightDiagram\LightDiagram\Core\Header\LF_Config.h(1532,58): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
   (编译源文件“MusicData.cpp”)
   
+F:\source\2024\MusicPlayer\MusicPlayer\MusicData.cpp(62,18): warning C4834: 放弃具有 [[nodiscard]] 属性的函数的返回值
+F:\source\2024\MusicPlayer\MusicPlayer\MusicData.cpp(67,19): warning C4834: 放弃具有 [[nodiscard]] 属性的函数的返回值
+F:\source\2024\MusicPlayer\MusicPlayer\MusicData.cpp(72,18): warning C4834: 放弃具有 [[nodiscard]] 属性的函数的返回值
+F:\source\2024\MusicPlayer\MusicPlayer\MusicData.cpp(270,18): warning C4834: 放弃具有 [[nodiscard]] 属性的函数的返回值
+F:\source\2024\MusicPlayer\MusicPlayer\MusicData.cpp(275,19): warning C4834: 放弃具有 [[nodiscard]] 属性的函数的返回值
+F:\source\2024\MusicPlayer\MusicPlayer\MusicData.cpp(280,18): warning C4834: 放弃具有 [[nodiscard]] 属性的函数的返回值
+F:\source\2024\MusicPlayer\MusicPlayer\MusicData.cpp(295,21): warning C4834: 放弃具有 [[nodiscard]] 属性的函数的返回值
+F:\source\2024\MusicPlayer\MusicPlayer\MusicData.cpp(300,22): warning C4834: 放弃具有 [[nodiscard]] 属性的函数的返回值
+F:\source\2024\MusicPlayer\MusicPlayer\MusicData.cpp(305,21): warning C4834: 放弃具有 [[nodiscard]] 属性的函数的返回值
+F:\source\2024\MusicPlayer\MusicPlayer\MusicData.cpp(400,19): warning C4834: 放弃具有 [[nodiscard]] 属性的函数的返回值
+F:\source\2024\MusicPlayer\MusicPlayer\MusicData.cpp(405,20): warning C4834: 放弃具有 [[nodiscard]] 属性的函数的返回值
+F:\source\2024\MusicPlayer\MusicPlayer\MusicData.cpp(410,19): warning C4834: 放弃具有 [[nodiscard]] 属性的函数的返回值
   MusicMCI.cpp
 F:\source\2024\MusicPlayer\MusicPlayer\MusicMCI.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
 F:\source\2024\MusicPlayer\MusicPlayer\MusicMCI.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
   (编译源文件“MusicMCI.cpp”)
   
-F:\source\2024\LightDiagram\LightDiagram\Core\Header\LF_Config.h(1523,75): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+F:\source\2024\LightDiagram\LightDiagram\Core\Header\LF_Config.h(1529,75): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
   (编译源文件“MusicMCI.cpp”)
   
-F:\source\2024\LightDiagram\LightDiagram\Core\Header\LF_Config.h(1526,58): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+F:\source\2024\LightDiagram\LightDiagram\Core\Header\LF_Config.h(1532,58): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
   (编译源文件“MusicMCI.cpp”)
   
   musicPlayer.cpp
-F:\source\2024\LightDiagram\LightDiagram\Core\Header\LF_Config.h(1523,75): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+F:\source\2024\LightDiagram\LightDiagram\Core\Header\LF_Config.h(1529,75): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
   (编译源文件“musicPlayer.cpp”)
   
-F:\source\2024\LightDiagram\LightDiagram\Core\Header\LF_Config.h(1526,58): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+F:\source\2024\LightDiagram\LightDiagram\Core\Header\LF_Config.h(1532,58): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
   (编译源文件“musicPlayer.cpp”)
   
   正在生成代码
   Previous IPDB not found, fall back to full compilation.
-  All 481 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  All 502 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
   已完成代码的生成
   MusicPlayer.vcxproj -> F:\source\2024\MusicPlayer\x64\Release\MusicPlayer.exe
